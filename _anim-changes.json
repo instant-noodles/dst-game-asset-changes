@@ -1,13 +1,17 @@
 {
-  "_totalAll": 1,
-  "_totalChanged": 1,
+  "_totalAll": 3,
+  "_totalChanged": 3,
   "_totalNew": 0,
   "_totalRemoved": 0,
   "all": {
-    "alterguardian_phase1_lunar.zip": "Changed"
+    "gridplacer.zip": "Changed",
+    "wagboss_lunar.zip": "Changed",
+    "wagboss_robot.zip": "Changed"
   },
   "changed": [
-    "alterguardian_phase1_lunar.zip"
+    "gridplacer.zip",
+    "wagboss_lunar.zip",
+    "wagboss_robot.zip"
   ],
   "new": [],
   "removed": []
