@@ -1,0 +1,29 @@
+{
+  "_totalAll": 8,
+  "_totalChanged": 1,
+  "_totalNew": 7,
+  "_totalRemoved": 0,
+  "all": {
+    "balatro_jokers.zip": "New",
+    "balatro_machine.zip": "New",
+    "databundles/anim_dynamic.zip/anim/dynamic/hivehat_joker.zip": "New",
+    "deck_of_cards.zip": "New",
+    "dst_menu_meta5.zip": "Changed",
+    "dynamic/hivehat_joker.dyn": "New",
+    "record_balatro.zip": "New",
+    "ui_balatro.zip": "New"
+  },
+  "changed": [
+    "dst_menu_meta5.zip"
+  ],
+  "new": [
+    "balatro_jokers.zip",
+    "balatro_machine.zip",
+    "databundles/anim_dynamic.zip/anim/dynamic/hivehat_joker.zip",
+    "deck_of_cards.zip",
+    "dynamic/hivehat_joker.dyn",
+    "record_balatro.zip",
+    "ui_balatro.zip"
+  ],
+  "removed": []
+}
