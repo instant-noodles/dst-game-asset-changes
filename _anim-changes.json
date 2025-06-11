@@ -1,10 +1,39 @@
 {
-  "_totalAll": 0,
-  "_totalChanged": 0,
-  "_totalNew": 0,
+  "_totalAll": 13,
+  "_totalChanged": 12,
+  "_totalNew": 1,
   "_totalRemoved": 0,
-  "all": {},
-  "changed": [],
-  "new": [],
+  "all": {
+    "ds_spider2_caves.zip": "Changed",
+    "ds_spider_cannon.zip": "Changed",
+    "ds_spider_caves.zip": "Changed",
+    "ds_spider_moon.zip": "Changed",
+    "ds_spider_warrior.zip": "Changed",
+    "lunar_seed.zip": "Changed",
+    "penguin.zip": "Changed",
+    "polly_rogers.zip": "Changed",
+    "puffin.zip": "Changed",
+    "puffin_water.zip": "Changed",
+    "wagboss_lunar_actions.zip": "Changed",
+    "wagboss_lunar_blast.zip": "Changed",
+    "wagstaff_finale.zip": "New"
+  },
+  "changed": [
+    "ds_spider2_caves.zip",
+    "ds_spider_cannon.zip",
+    "ds_spider_caves.zip",
+    "ds_spider_moon.zip",
+    "ds_spider_warrior.zip",
+    "lunar_seed.zip",
+    "penguin.zip",
+    "polly_rogers.zip",
+    "puffin.zip",
+    "puffin_water.zip",
+    "wagboss_lunar_actions.zip",
+    "wagboss_lunar_blast.zip"
+  ],
+  "new": [
+    "wagstaff_finale.zip"
+  ],
   "removed": []
 }
