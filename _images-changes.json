@@ -1,14 +1,10 @@
 {
-  "_totalAll": 1,
-  "_totalChanged": 1,
+  "_totalAll": 0,
+  "_totalChanged": 0,
   "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {
-    "databundles/images.zip/images/inventoryimages2.tex": "Changed"
-  },
-  "changed": [
-    "databundles/images.zip/images/inventoryimages2.tex"
-  ],
+  "all": {},
+  "changed": [],
   "new": [],
   "removed": []
 }
