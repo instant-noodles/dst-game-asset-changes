@@ -1,10 +1,36 @@
 {
-  "_totalAll": 0,
+  "_totalAll": 12,
   "_totalChanged": 0,
-  "_totalNew": 0,
+  "_totalNew": 12,
   "_totalRemoved": 0,
-  "all": {},
+  "all": {
+    "databundles/bigportraits.zip/bigportraits/wanda_western.xml": "New",
+    "databundles/bigportraits.zip/bigportraits/wathgrithr_western.xml": "New",
+    "databundles/bigportraits.zip/bigportraits/wes_western.xml": "New",
+    "databundles/bigportraits.zip/bigportraits/woodie_lunar.xml": "New",
+    "databundles/bigportraits.zip/bigportraits/wortox_lunar.xml": "New",
+    "databundles/bigportraits.zip/bigportraits/wurt_lunar.xml": "New",
+    "wanda_western.tex": "New",
+    "wathgrithr_western.tex": "New",
+    "wes_western.tex": "New",
+    "woodie_lunar.tex": "New",
+    "wortox_lunar.tex": "New",
+    "wurt_lunar.tex": "New"
+  },
   "changed": [],
-  "new": [],
+  "new": [
+    "databundles/bigportraits.zip/bigportraits/wanda_western.xml",
+    "databundles/bigportraits.zip/bigportraits/wathgrithr_western.xml",
+    "databundles/bigportraits.zip/bigportraits/wes_western.xml",
+    "databundles/bigportraits.zip/bigportraits/woodie_lunar.xml",
+    "databundles/bigportraits.zip/bigportraits/wortox_lunar.xml",
+    "databundles/bigportraits.zip/bigportraits/wurt_lunar.xml",
+    "wanda_western.tex",
+    "wathgrithr_western.tex",
+    "wes_western.tex",
+    "woodie_lunar.tex",
+    "wortox_lunar.tex",
+    "wurt_lunar.tex"
+  ],
   "removed": []
 }
