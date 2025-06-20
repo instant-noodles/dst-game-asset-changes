@@ -1,32 +1,42 @@
 {
-  "_totalAll": 10,
-  "_totalChanged": 10,
-  "_totalNew": 0,
-  "_totalRemoved": 0,
+  "_totalAll": 14,
+  "_totalChanged": 12,
+  "_totalNew": 1,
+  "_totalRemoved": 1,
   "all": {
-    "bat_basic.zip": "Changed",
-    "databundles/anim_dynamic.zip/anim/dynamic/meatrack_ancient.zip": "Changed",
-    "databundles/anim_dynamic.zip/anim/dynamic/meatrack_butcher.zip": "Changed",
-    "databundles/anim_dynamic.zip/anim/dynamic/meatrack_circus.zip": "Changed",
-    "databundles/anim_dynamic.zip/anim/dynamic/meatrack_victorian.zip": "Changed",
-    "dynamic/meatrack_ancient.dyn": "Changed",
-    "dynamic/meatrack_butcher.dyn": "Changed",
-    "dynamic/meatrack_circus.dyn": "Changed",
-    "dynamic/meatrack_victorian.dyn": "Changed",
-    "meat_rack.zip": "Changed"
+    "databundles/anim_dynamic.zip/anim/dynamic/alterguardianhat_lastprism.zip": "Changed",
+    "databundles/anim_dynamic.zip/anim/dynamic/berrybush_cawnival.zip": "Changed",
+    "databundles/anim_dynamic.zip/anim/dynamic/bushhat_cawnival.zip": "Changed",
+    "databundles/anim_dynamic.zip/anim/dynamic/lunarplanthat_brave.zip": "Changed",
+    "dst_menu_rift5.zip": "Changed",
+    "dynamic/alterguardianhat_lastprism.dyn": "Changed",
+    "dynamic/berrybush_cawnival.dyn": "Changed",
+    "dynamic/bushhat_cawnival.dyn": "Changed",
+    "dynamic/lunarplanthat_brave.dyn": "Changed",
+    "hat_alterguardian_equipped.zip": "Changed",
+    "hat_alterguardianupgraded_equipped.zip": "Removed",
+    "wagboss_fissure.zip": "New",
+    "wagboss_lunar_blast.zip": "Changed",
+    "wagstaff_finale.zip": "Changed"
   },
   "changed": [
-    "bat_basic.zip",
-    "databundles/anim_dynamic.zip/anim/dynamic/meatrack_ancient.zip",
-    "databundles/anim_dynamic.zip/anim/dynamic/meatrack_butcher.zip",
-    "databundles/anim_dynamic.zip/anim/dynamic/meatrack_circus.zip",
-    "databundles/anim_dynamic.zip/anim/dynamic/meatrack_victorian.zip",
-    "dynamic/meatrack_ancient.dyn",
-    "dynamic/meatrack_butcher.dyn",
-    "dynamic/meatrack_circus.dyn",
-    "dynamic/meatrack_victorian.dyn",
-    "meat_rack.zip"
+    "databundles/anim_dynamic.zip/anim/dynamic/alterguardianhat_lastprism.zip",
+    "databundles/anim_dynamic.zip/anim/dynamic/berrybush_cawnival.zip",
+    "databundles/anim_dynamic.zip/anim/dynamic/bushhat_cawnival.zip",
+    "databundles/anim_dynamic.zip/anim/dynamic/lunarplanthat_brave.zip",
+    "dst_menu_rift5.zip",
+    "dynamic/alterguardianhat_lastprism.dyn",
+    "dynamic/berrybush_cawnival.dyn",
+    "dynamic/bushhat_cawnival.dyn",
+    "dynamic/lunarplanthat_brave.dyn",
+    "hat_alterguardian_equipped.zip",
+    "wagboss_lunar_blast.zip",
+    "wagstaff_finale.zip"
   ],
-  "new": [],
-  "removed": []
+  "new": [
+    "wagboss_fissure.zip"
+  ],
+  "removed": [
+    "hat_alterguardianupgraded_equipped.zip"
+  ]
 }
