@@ -1,14 +1,10 @@
 {
-  "_totalAll": 1,
-  "_totalChanged": 1,
+  "_totalAll": 0,
+  "_totalChanged": 0,
   "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {
-    "worldprogressionfilters.tex": "Changed"
-  },
-  "changed": [
-    "worldprogressionfilters.tex"
-  ],
+  "all": {},
+  "changed": [],
   "new": [],
   "removed": []
 }

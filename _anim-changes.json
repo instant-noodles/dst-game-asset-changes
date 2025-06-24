@@ -1,24 +1,10 @@
 {
-  "_totalAll": 6,
-  "_totalChanged": 6,
+  "_totalAll": 0,
+  "_totalChanged": 0,
   "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {
-    "databundles/anim_dynamic.zip/anim/dynamic/alterguardianhat_lastprism.zip": "Changed",
-    "databundles/anim_dynamic.zip/anim/dynamic/wathgrithr_ancient.zip": "Changed",
-    "dynamic/alterguardianhat_lastprism.dyn": "Changed",
-    "dynamic/wathgrithr_ancient.dyn": "Changed",
-    "hat_alterguardian_equipped.zip": "Changed",
-    "wagboss_fissure.zip": "Changed"
-  },
-  "changed": [
-    "databundles/anim_dynamic.zip/anim/dynamic/alterguardianhat_lastprism.zip",
-    "databundles/anim_dynamic.zip/anim/dynamic/wathgrithr_ancient.zip",
-    "dynamic/alterguardianhat_lastprism.dyn",
-    "dynamic/wathgrithr_ancient.dyn",
-    "hat_alterguardian_equipped.zip",
-    "wagboss_fissure.zip"
-  ],
+  "all": {},
+  "changed": [],
   "new": [],
   "removed": []
 }

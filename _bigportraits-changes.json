@@ -1,10 +1,14 @@
 {
-  "_totalAll": 0,
-  "_totalChanged": 0,
+  "_totalAll": 1,
+  "_totalChanged": 1,
   "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {},
-  "changed": [],
+  "all": {
+    "wathgrithr_western.tex": "Changed"
+  },
+  "changed": [
+    "wathgrithr_western.tex"
+  ],
   "new": [],
   "removed": []
 }
