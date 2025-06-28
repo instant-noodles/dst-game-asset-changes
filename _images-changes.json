@@ -1,10 +1,16 @@
 {
-  "_totalAll": 0,
-  "_totalChanged": 0,
+  "_totalAll": 2,
+  "_totalChanged": 2,
   "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {},
-  "changed": [],
+  "all": {
+    "iap_images_lunarwestermystical_bundle.tex": "Changed",
+    "iap_images_mystical_lunarplant_western.tex": "Changed"
+  },
+  "changed": [
+    "iap_images_lunarwestermystical_bundle.tex",
+    "iap_images_mystical_lunarplant_western.tex"
+  ],
   "new": [],
   "removed": []
 }

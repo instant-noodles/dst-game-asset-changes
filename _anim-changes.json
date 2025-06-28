@@ -1,10 +1,16 @@
 {
-  "_totalAll": 0,
-  "_totalChanged": 0,
+  "_totalAll": 2,
+  "_totalChanged": 2,
   "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {},
-  "changed": [],
+  "all": {
+    "buzzard_basic.zip": "Changed",
+    "crow.zip": "Changed"
+  },
+  "changed": [
+    "buzzard_basic.zip",
+    "crow.zip"
+  ],
   "new": [],
   "removed": []
 }
