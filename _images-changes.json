@@ -1,16 +1,29 @@
 {
-  "_totalAll": 2,
-  "_totalChanged": 2,
-  "_totalNew": 0,
+  "_totalAll": 8,
+  "_totalChanged": 6,
+  "_totalNew": 2,
   "_totalRemoved": 0,
   "all": {
-    "iap_images_lunarwestermystical_bundle.tex": "Changed",
-    "iap_images_mystical_lunarplant_western.tex": "Changed"
+    "databundles/images.zip/images/iap_images_woodworking_cawnival.xml": "New",
+    "databundles/images.zip/images/inventoryimages1.tex": "Changed",
+    "databundles/images.zip/images/inventoryimages1.xml": "Changed",
+    "databundles/images.zip/images/inventoryimages2.tex": "Changed",
+    "databundles/images.zip/images/inventoryimages2.xml": "Changed",
+    "databundles/images.zip/images/inventoryimages3.tex": "Changed",
+    "databundles/images.zip/images/inventoryimages3.xml": "Changed",
+    "iap_images_woodworking_cawnival.tex": "New"
   },
   "changed": [
-    "iap_images_lunarwestermystical_bundle.tex",
-    "iap_images_mystical_lunarplant_western.tex"
+    "databundles/images.zip/images/inventoryimages1.tex",
+    "databundles/images.zip/images/inventoryimages1.xml",
+    "databundles/images.zip/images/inventoryimages2.tex",
+    "databundles/images.zip/images/inventoryimages2.xml",
+    "databundles/images.zip/images/inventoryimages3.tex",
+    "databundles/images.zip/images/inventoryimages3.xml"
   ],
-  "new": [],
+  "new": [
+    "databundles/images.zip/images/iap_images_woodworking_cawnival.xml",
+    "iap_images_woodworking_cawnival.tex"
+  ],
   "removed": []
 }
