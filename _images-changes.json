@@ -1,41 +1,15 @@
 {
-  "_totalAll": 15,
-  "_totalChanged": 15,
+  "_totalAll": 2,
+  "_totalChanged": 2,
   "_totalNew": 0,
   "_totalRemoved": 0,
   "all": {
-    "databundles/images.zip/images/avatars.tex": "Changed",
-    "databundles/images.zip/images/avatars.xml": "Changed",
-    "databundles/images.zip/images/inventoryimages1.tex": "Changed",
-    "databundles/images.zip/images/inventoryimages1.xml": "Changed",
-    "databundles/images.zip/images/inventoryimages2.tex": "Changed",
-    "databundles/images.zip/images/inventoryimages2.xml": "Changed",
-    "databundles/images.zip/images/inventoryimages3.tex": "Changed",
-    "databundles/images.zip/images/inventoryimages3.xml": "Changed",
-    "databundles/images.zip/images/scrapbook_icons1.tex": "Changed",
-    "databundles/images.zip/images/scrapbook_icons1.xml": "Changed",
-    "databundles/images.zip/images/scrapbook_icons2.tex": "Changed",
-    "databundles/images.zip/images/scrapbook_icons2.xml": "Changed",
-    "databundles/images.zip/images/scrapbook_icons3.tex": "Changed",
-    "databundles/images.zip/images/scrapbook_icons3.xml": "Changed",
-    "motd_box7.tex": "Changed"
+    "emotes_wormwood.tex": "Changed",
+    "emotes_wormwood.xml": "Changed"
   },
   "changed": [
-    "databundles/images.zip/images/avatars.tex",
-    "databundles/images.zip/images/avatars.xml",
-    "databundles/images.zip/images/inventoryimages1.tex",
-    "databundles/images.zip/images/inventoryimages1.xml",
-    "databundles/images.zip/images/inventoryimages2.tex",
-    "databundles/images.zip/images/inventoryimages2.xml",
-    "databundles/images.zip/images/inventoryimages3.tex",
-    "databundles/images.zip/images/inventoryimages3.xml",
-    "databundles/images.zip/images/scrapbook_icons1.tex",
-    "databundles/images.zip/images/scrapbook_icons1.xml",
-    "databundles/images.zip/images/scrapbook_icons2.tex",
-    "databundles/images.zip/images/scrapbook_icons2.xml",
-    "databundles/images.zip/images/scrapbook_icons3.tex",
-    "databundles/images.zip/images/scrapbook_icons3.xml",
-    "motd_box7.tex"
+    "emotes_wormwood.tex",
+    "emotes_wormwood.xml"
   ],
   "new": [],
   "removed": []
