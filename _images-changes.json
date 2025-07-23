@@ -4,12 +4,12 @@
   "_totalNew": 0,
   "_totalRemoved": 0,
   "all": {
-    "emotes_wormwood.tex": "Changed",
-    "emotes_wormwood.xml": "Changed"
+    "motd_box5.tex": "Changed",
+    "motd_box7.tex": "Changed"
   },
   "changed": [
-    "emotes_wormwood.tex",
-    "emotes_wormwood.xml"
+    "motd_box5.tex",
+    "motd_box7.tex"
   ],
   "new": [],
   "removed": []
