@@ -1,16 +1,10 @@
 {
-  "_totalAll": 2,
-  "_totalChanged": 2,
+  "_totalAll": 0,
+  "_totalChanged": 0,
   "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {
-    "motd_box5.tex": "Changed",
-    "motd_box7.tex": "Changed"
-  },
-  "changed": [
-    "motd_box5.tex",
-    "motd_box7.tex"
-  ],
+  "all": {},
+  "changed": [],
   "new": [],
   "removed": []
 }
