@@ -1,28 +1,24 @@
 {
-  "_totalAll": 8,
-  "_totalChanged": 8,
-  "_totalNew": 0,
+  "_totalAll": 6,
+  "_totalChanged": 0,
+  "_totalNew": 6,
   "_totalRemoved": 0,
   "all": {
-    "ds_spider_caves.zip": "Changed",
-    "lunar_forge.zip": "Changed",
-    "meat_rack_multi.zip": "Changed",
-    "player_float.zip": "Changed",
-    "ruins_shadeling.zip": "Changed",
-    "swap_wathgrithr_shield.zip": "Changed",
-    "wagboss_lunar.zip": "Changed",
-    "wagboss_robot.zip": "Changed"
+    "swap_chesspiece_wagboss_lunar_marble.zip": "New",
+    "swap_chesspiece_wagboss_lunar_moonglass.zip": "New",
+    "swap_chesspiece_wagboss_lunar_stone.zip": "New",
+    "swap_chesspiece_wagboss_robot_marble.zip": "New",
+    "swap_chesspiece_wagboss_robot_moonglass.zip": "New",
+    "swap_chesspiece_wagboss_robot_stone.zip": "New"
   },
-  "changed": [
-    "ds_spider_caves.zip",
-    "lunar_forge.zip",
-    "meat_rack_multi.zip",
-    "player_float.zip",
-    "ruins_shadeling.zip",
-    "swap_wathgrithr_shield.zip",
-    "wagboss_lunar.zip",
-    "wagboss_robot.zip"
+  "changed": [],
+  "new": [
+    "swap_chesspiece_wagboss_lunar_marble.zip",
+    "swap_chesspiece_wagboss_lunar_moonglass.zip",
+    "swap_chesspiece_wagboss_lunar_stone.zip",
+    "swap_chesspiece_wagboss_robot_marble.zip",
+    "swap_chesspiece_wagboss_robot_moonglass.zip",
+    "swap_chesspiece_wagboss_robot_stone.zip"
   ],
-  "new": [],
   "removed": []
 }
