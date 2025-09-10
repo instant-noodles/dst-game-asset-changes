@@ -1,23 +1,37 @@
 {
-  "_totalAll": 5,
-  "_totalChanged": 4,
-  "_totalNew": 0,
-  "_totalRemoved": 1,
+  "_totalAll": 12,
+  "_totalChanged": 9,
+  "_totalNew": 3,
+  "_totalRemoved": 0,
   "all": {
-    "abyss_cliff.zip": "Removed",
-    "hat_mask_ancient_architect.zip": "Changed",
+    "ancient_husk.zip": "New",
+    "cave_vent.zip": "Changed",
+    "cave_vent_ground.zip": "New",
+    "chandelier_vault.zip": "Changed",
+    "player_attacks_recoil.zip": "New",
+    "shadow_thrall_centipede_head.zip": "Changed",
     "statue_vault.zip": "Changed",
+    "tree_rock2_normal.zip": "Changed",
+    "tree_rock2_short.zip": "Changed",
     "tree_rock_normal.zip": "Changed",
+    "tree_rock_short.zip": "Changed",
     "whirlbigportal.zip": "Changed"
   },
   "changed": [
-    "hat_mask_ancient_architect.zip",
+    "cave_vent.zip",
+    "chandelier_vault.zip",
+    "shadow_thrall_centipede_head.zip",
     "statue_vault.zip",
+    "tree_rock2_normal.zip",
+    "tree_rock2_short.zip",
     "tree_rock_normal.zip",
+    "tree_rock_short.zip",
     "whirlbigportal.zip"
   ],
-  "new": [],
-  "removed": [
-    "abyss_cliff.zip"
-  ]
+  "new": [
+    "ancient_husk.zip",
+    "cave_vent_ground.zip",
+    "player_attacks_recoil.zip"
+  ],
+  "removed": []
 }
