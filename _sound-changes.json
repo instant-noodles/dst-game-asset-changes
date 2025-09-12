@@ -1,0 +1,21 @@
+{
+  "_totalAll": 4,
+  "_totalChanged": 1,
+  "_totalNew": 3,
+  "_totalRemoved": 0,
+  "all": {
+    "moonstorm.fev": "Changed",
+    "moonstorm.fsb/bird_fall_drop_dead_DST_-001.ogg": "New",
+    "moonstorm.fsb/bird_fall_drop_dead_DST_-002.ogg": "New",
+    "moonstorm.fsb/bird_fall_drop_dead_DST_-003.ogg": "New"
+  },
+  "changed": [
+    "moonstorm.fev"
+  ],
+  "new": [
+    "moonstorm.fsb/bird_fall_drop_dead_DST_-001.ogg",
+    "moonstorm.fsb/bird_fall_drop_dead_DST_-002.ogg",
+    "moonstorm.fsb/bird_fall_drop_dead_DST_-003.ogg"
+  ],
+  "removed": []
+}
