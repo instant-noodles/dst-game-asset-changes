@@ -1,5 +1,5 @@
 # Don't Starve Together (DST) Game Asset Changes
-A GitHub repository of JSON files that list changes made to [Don't Starve Together](https://store.steampowered.com/app/322330/Dont_Starve_Together/) game asset files (from certain folders, fsb files, and zip files) for each game update.
+A GitHub repository of JSON files that list changes made to [Don't Starve Together](https://store.steampowered.com/app/322330/Dont_Starve_Together/) game assets (in certain folders, fsb files, and zip files) for each game update.
 
 Each JSON file tracks changes for different game directories:
 - `_anim-changes.json`: `/anim`, `/anim/dynamic`, & `/databundles/anim_dynamic.zip`
