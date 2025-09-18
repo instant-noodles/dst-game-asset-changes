@@ -1,21 +1,23 @@
 {
-  "_totalAll": 4,
-  "_totalChanged": 2,
-  "_totalNew": 2,
+  "_totalAll": 5,
+  "_totalChanged": 4,
+  "_totalNew": 1,
   "_totalRemoved": 0,
   "all": {
-    "charlie_lectern_void.zip": "New",
-    "playbill_void.zip": "New",
-    "player_drink.zip": "Changed",
-    "vault_chair_stool.zip": "Changed"
+    "dst_menu_rift6.zip": "Changed",
+    "playbill.zip": "Changed",
+    "playbill_ancient.zip": "Changed",
+    "playbill_void.zip": "Changed",
+    "player_ancient_handmaid.zip": "New"
   },
   "changed": [
-    "player_drink.zip",
-    "vault_chair_stool.zip"
+    "dst_menu_rift6.zip",
+    "playbill.zip",
+    "playbill_ancient.zip",
+    "playbill_void.zip"
   ],
   "new": [
-    "charlie_lectern_void.zip",
-    "playbill_void.zip"
+    "player_ancient_handmaid.zip"
   ],
   "removed": []
 }

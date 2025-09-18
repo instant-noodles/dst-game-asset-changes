@@ -1,14 +1,34 @@
 {
-  "_totalAll": 1,
-  "_totalChanged": 1,
-  "_totalNew": 0,
-  "_totalRemoved": 0,
+  "_totalAll": 10,
+  "_totalChanged": 2,
+  "_totalNew": 7,
+  "_totalRemoved": 1,
   "all": {
-    "rifts6.fev": "Changed"
+    "bat.fsb/DST_death_body_fall_v2.ogg": "New",
+    "dontstarve.fev": "Changed",
+    "music_frontend.fsb/DST_Rift_Puzzles_Edit_Music_StartScreen 139bpm.ogg": "New",
+    "rifts6.fev": "Changed",
+    "rifts6.fsb/ATK_KnifeSwipe1_V2.ogg": "New",
+    "rifts6.fsb/Construction_DS_MetalHit_02.ogg": "New",
+    "rifts6.fsb/Construction_DS_MetalHit_03.ogg": "New",
+    "rifts6.fsb/Construction_DS_MetalHit_08.ogg": "New",
+    "rifts6.fsb/DST_death_body_fall_v2.ogg": "New",
+    "wilson.fsb/DST_death_body_fall_v2.ogg": "Removed"
   },
   "changed": [
+    "dontstarve.fev",
     "rifts6.fev"
   ],
-  "new": [],
-  "removed": []
+  "new": [
+    "bat.fsb/DST_death_body_fall_v2.ogg",
+    "music_frontend.fsb/DST_Rift_Puzzles_Edit_Music_StartScreen 139bpm.ogg",
+    "rifts6.fsb/ATK_KnifeSwipe1_V2.ogg",
+    "rifts6.fsb/Construction_DS_MetalHit_02.ogg",
+    "rifts6.fsb/Construction_DS_MetalHit_03.ogg",
+    "rifts6.fsb/Construction_DS_MetalHit_08.ogg",
+    "rifts6.fsb/DST_death_body_fall_v2.ogg"
+  ],
+  "removed": [
+    "wilson.fsb/DST_death_body_fall_v2.ogg"
+  ]
 }
