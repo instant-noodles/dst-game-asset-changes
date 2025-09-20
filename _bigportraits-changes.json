@@ -1,36 +1,10 @@
 {
-  "_totalAll": 12,
+  "_totalAll": 0,
   "_totalChanged": 0,
-  "_totalNew": 12,
+  "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {
-    "databundles/bigportraits.zip/bigportraits/warly_survivor.xml": "New",
-    "databundles/bigportraits.zip/bigportraits/wendy_pirate.xml": "New",
-    "databundles/bigportraits.zip/bigportraits/wickerbottom_pirate.xml": "New",
-    "databundles/bigportraits.zip/bigportraits/wormwood_survivor.xml": "New",
-    "databundles/bigportraits.zip/bigportraits/wurt_survivor.xml": "New",
-    "databundles/bigportraits.zip/bigportraits/wx78_pirate.xml": "New",
-    "warly_survivor.tex": "New",
-    "wendy_pirate.tex": "New",
-    "wickerbottom_pirate.tex": "New",
-    "wormwood_survivor.tex": "New",
-    "wurt_survivor.tex": "New",
-    "wx78_pirate.tex": "New"
-  },
+  "all": {},
   "changed": [],
-  "new": [
-    "databundles/bigportraits.zip/bigportraits/warly_survivor.xml",
-    "databundles/bigportraits.zip/bigportraits/wendy_pirate.xml",
-    "databundles/bigportraits.zip/bigportraits/wickerbottom_pirate.xml",
-    "databundles/bigportraits.zip/bigportraits/wormwood_survivor.xml",
-    "databundles/bigportraits.zip/bigportraits/wurt_survivor.xml",
-    "databundles/bigportraits.zip/bigportraits/wx78_pirate.xml",
-    "warly_survivor.tex",
-    "wendy_pirate.tex",
-    "wickerbottom_pirate.tex",
-    "wormwood_survivor.tex",
-    "wurt_survivor.tex",
-    "wx78_pirate.tex"
-  ],
+  "new": [],
   "removed": []
 }
