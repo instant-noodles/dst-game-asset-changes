@@ -7,6 +7,6 @@ Each JSON file tracks changes for different game directories:
 - `_images-changes.json`: `/images`, `images/colour_cubes`, & `/databundles/images.zip`
 - `_sound-changes.json`: `/sound`
 
-For changes made during DST Betas, select the relevant branch at: https://github.com/instant-noodles/dst-game-asset-changes/branches
+For changes made during DST Betas, select the relevant branch at: https://github.com/instant-noodles/dst-game-asset-changes/branches/all
 
 **Note:** Commits (to this repository) will not be made for DST game updates that result in all JSON files being identical to the previous game update.
