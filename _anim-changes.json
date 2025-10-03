@@ -1,10 +1,16 @@
 {
-  "_totalAll": 0,
-  "_totalChanged": 0,
+  "_totalAll": 2,
+  "_totalChanged": 2,
   "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {},
-  "changed": [],
+  "all": {
+    "databundles/anim_dynamic.zip/anim/dynamic/backpack_glommer.zip": "Changed",
+    "dynamic/backpack_glommer.dyn": "Changed"
+  },
+  "changed": [
+    "databundles/anim_dynamic.zip/anim/dynamic/backpack_glommer.zip",
+    "dynamic/backpack_glommer.dyn"
+  ],
   "new": [],
   "removed": []
 }
