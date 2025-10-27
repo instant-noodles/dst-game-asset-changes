@@ -1,14 +1,55 @@
 {
-  "_totalAll": 1,
-  "_totalChanged": 1,
-  "_totalNew": 0,
+  "_totalAll": 21,
+  "_totalChanged": 17,
+  "_totalNew": 4,
   "_totalRemoved": 0,
   "all": {
-    "iap_images_backpack_glommer_resurrected.tex": "Changed"
+    "databundles/images.zip/images/inventoryimages1.tex": "Changed",
+    "databundles/images.zip/images/inventoryimages1.xml": "Changed",
+    "databundles/images.zip/images/inventoryimages2.tex": "Changed",
+    "databundles/images.zip/images/inventoryimages2.xml": "Changed",
+    "databundles/images.zip/images/inventoryimages3.tex": "Changed",
+    "databundles/images.zip/images/inventoryimages3.xml": "Changed",
+    "databundles/images.zip/images/playerportrait_playerportrait_bg_heatrock_planet.xml": "New",
+    "databundles/images.zip/images/profileflair.tex": "Changed",
+    "databundles/images.zip/images/profileflair.xml": "Changed",
+    "databundles/images.zip/images/scrapbook_icons2.tex": "Changed",
+    "databundles/images.zip/images/scrapbook_icons2.xml": "Changed",
+    "databundles/images.zip/images/scrapbook_icons3.tex": "Changed",
+    "databundles/images.zip/images/scrapbook_icons3.xml": "Changed",
+    "motd_box7.tex": "Changed",
+    "playerportrait_playerportrait_bg_heatrock_planet.tex": "New",
+    "pumpkin_carving.tex": "Changed",
+    "pumpkin_carving.xml": "Changed",
+    "pumpkinhat_face.tex": "New",
+    "pumpkinhat_face.xml": "New",
+    "worldsettings_customization.tex": "Changed",
+    "worldsettings_customization.xml": "Changed"
   },
   "changed": [
-    "iap_images_backpack_glommer_resurrected.tex"
+    "databundles/images.zip/images/inventoryimages1.tex",
+    "databundles/images.zip/images/inventoryimages1.xml",
+    "databundles/images.zip/images/inventoryimages2.tex",
+    "databundles/images.zip/images/inventoryimages2.xml",
+    "databundles/images.zip/images/inventoryimages3.tex",
+    "databundles/images.zip/images/inventoryimages3.xml",
+    "databundles/images.zip/images/profileflair.tex",
+    "databundles/images.zip/images/profileflair.xml",
+    "databundles/images.zip/images/scrapbook_icons2.tex",
+    "databundles/images.zip/images/scrapbook_icons2.xml",
+    "databundles/images.zip/images/scrapbook_icons3.tex",
+    "databundles/images.zip/images/scrapbook_icons3.xml",
+    "motd_box7.tex",
+    "pumpkin_carving.tex",
+    "pumpkin_carving.xml",
+    "worldsettings_customization.tex",
+    "worldsettings_customization.xml"
   ],
-  "new": [],
+  "new": [
+    "databundles/images.zip/images/playerportrait_playerportrait_bg_heatrock_planet.xml",
+    "playerportrait_playerportrait_bg_heatrock_planet.tex",
+    "pumpkinhat_face.tex",
+    "pumpkinhat_face.xml"
+  ],
   "removed": []
 }
