@@ -1,23 +1,19 @@
 {
-  "_totalAll": 6,
-  "_totalChanged": 6,
+  "_totalAll": 4,
+  "_totalChanged": 4,
   "_totalNew": 0,
   "_totalRemoved": 0,
   "all": {
-    "motd_box1.tex": "Changed",
     "motd_box4.tex": "Changed",
     "motd_box5.tex": "Changed",
     "motd_box7.tex": "Changed",
-    "motd_box8.tex": "Changed",
-    "motd_box9.tex": "Changed"
+    "motd_box8.tex": "Changed"
   },
   "changed": [
-    "motd_box1.tex",
     "motd_box4.tex",
     "motd_box5.tex",
     "motd_box7.tex",
-    "motd_box8.tex",
-    "motd_box9.tex"
+    "motd_box8.tex"
   ],
   "new": [],
   "removed": []
