@@ -1,10 +1,19 @@
 {
-  "_totalAll": 0,
-  "_totalChanged": 0,
-  "_totalNew": 0,
+  "_totalAll": 3,
+  "_totalChanged": 2,
+  "_totalNew": 1,
   "_totalRemoved": 0,
-  "all": {},
-  "changed": [],
-  "new": [],
+  "all": {
+    "dontstarve.fev": "Changed",
+    "hookline_2.fev": "Changed",
+    "hookline_2.fsb/stage5_place_hermithouse_v3_DST.ogg": "New"
+  },
+  "changed": [
+    "dontstarve.fev",
+    "hookline_2.fev"
+  ],
+  "new": [
+    "hookline_2.fsb/stage5_place_hermithouse_v3_DST.ogg"
+  ],
   "removed": []
 }

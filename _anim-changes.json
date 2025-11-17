@@ -1,26 +1,23 @@
 {
-  "_totalAll": 7,
-  "_totalChanged": 7,
-  "_totalNew": 0,
+  "_totalAll": 5,
+  "_totalChanged": 1,
+  "_totalNew": 4,
   "_totalRemoved": 0,
   "all": {
-    "databundles/anim_dynamic.zip/anim/dynamic/tent_spider.zip": "Changed",
-    "ds_spider2_caves.zip": "Changed",
-    "ds_spider_caves.zip": "Changed",
-    "dynamic/tent_spider.dyn": "Changed",
-    "player_actions_uniqueitem.zip": "Changed",
-    "spider_water.zip": "Changed",
-    "worm_boss.zip": "Changed"
+    "databundles/anim_dynamic.zip/anim/dynamic/cookpot_candy.zip": "New",
+    "databundles/anim_dynamic.zip/anim/dynamic/saddle_basic_western.zip": "New",
+    "dynamic/cookpot_candy.dyn": "New",
+    "dynamic/saddle_basic_western.dyn": "New",
+    "froglunar_build.zip": "Changed"
   },
   "changed": [
-    "databundles/anim_dynamic.zip/anim/dynamic/tent_spider.zip",
-    "ds_spider2_caves.zip",
-    "ds_spider_caves.zip",
-    "dynamic/tent_spider.dyn",
-    "player_actions_uniqueitem.zip",
-    "spider_water.zip",
-    "worm_boss.zip"
+    "froglunar_build.zip"
   ],
-  "new": [],
+  "new": [
+    "databundles/anim_dynamic.zip/anim/dynamic/cookpot_candy.zip",
+    "databundles/anim_dynamic.zip/anim/dynamic/saddle_basic_western.zip",
+    "dynamic/cookpot_candy.dyn",
+    "dynamic/saddle_basic_western.dyn"
+  ],
   "removed": []
 }
