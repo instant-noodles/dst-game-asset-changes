@@ -1,27 +1,20 @@
 {
-  "_totalAll": 7,
-  "_totalChanged": 5,
-  "_totalNew": 2,
+  "_totalAll": 4,
+  "_totalChanged": 4,
+  "_totalNew": 0,
   "_totalRemoved": 0,
   "all": {
-    "hermitcrab_home.zip": "Changed",
-    "hermithouse_laundry_shorts.zip": "New",
-    "hermithouse_laundry_socks.zip": "New",
+    "hermit_chair_rocking.zip": "Changed",
+    "monkeymen_build.zip": "Changed",
     "player_idles.zip": "Changed",
-    "slurtle.zip": "Changed",
-    "slurtle_snaily.zip": "Changed",
-    "wagstaff_personal_items.zip": "Changed"
+    "puffin.zip": "Changed"
   },
   "changed": [
-    "hermitcrab_home.zip",
+    "hermit_chair_rocking.zip",
+    "monkeymen_build.zip",
     "player_idles.zip",
-    "slurtle.zip",
-    "slurtle_snaily.zip",
-    "wagstaff_personal_items.zip"
+    "puffin.zip"
   ],
-  "new": [
-    "hermithouse_laundry_shorts.zip",
-    "hermithouse_laundry_socks.zip"
-  ],
+  "new": [],
   "removed": []
 }

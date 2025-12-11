@@ -1,45 +1,10 @@
 {
-  "_totalAll": 16,
-  "_totalChanged": 6,
-  "_totalNew": 10,
+  "_totalAll": 0,
+  "_totalChanged": 0,
+  "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {
-    "bg_redux_pearl_clothesrack.tex": "New",
-    "bg_redux_pearl_clothesrack.xml": "New",
-    "bg_redux_pearl_mirror.tex": "New",
-    "bg_redux_pearl_mirror.xml": "New",
-    "databundles/images.zip/images/inventoryimages2.tex": "Changed",
-    "databundles/images.zip/images/inventoryimages2.xml": "Changed",
-    "databundles/images.zip/images/inventoryimages3.tex": "Changed",
-    "databundles/images.zip/images/inventoryimages3.xml": "Changed",
-    "databundles/images.zip/images/inventoryimages4.tex": "Changed",
-    "databundles/images.zip/images/inventoryimages4.xml": "Changed",
-    "databundles/images.zip/images/names_gold_cn_pearl.xml": "New",
-    "databundles/images.zip/images/names_gold_pearl.xml": "New",
-    "databundles/images.zip/images/names_pearl.xml": "New",
-    "names_gold_cn_pearl.tex": "New",
-    "names_gold_pearl.tex": "New",
-    "names_pearl.tex": "New"
-  },
-  "changed": [
-    "databundles/images.zip/images/inventoryimages2.tex",
-    "databundles/images.zip/images/inventoryimages2.xml",
-    "databundles/images.zip/images/inventoryimages3.tex",
-    "databundles/images.zip/images/inventoryimages3.xml",
-    "databundles/images.zip/images/inventoryimages4.tex",
-    "databundles/images.zip/images/inventoryimages4.xml"
-  ],
-  "new": [
-    "bg_redux_pearl_clothesrack.tex",
-    "bg_redux_pearl_clothesrack.xml",
-    "bg_redux_pearl_mirror.tex",
-    "bg_redux_pearl_mirror.xml",
-    "databundles/images.zip/images/names_gold_cn_pearl.xml",
-    "databundles/images.zip/images/names_gold_pearl.xml",
-    "databundles/images.zip/images/names_pearl.xml",
-    "names_gold_cn_pearl.tex",
-    "names_gold_pearl.tex",
-    "names_pearl.tex"
-  ],
+  "all": {},
+  "changed": [],
+  "new": [],
   "removed": []
 }
