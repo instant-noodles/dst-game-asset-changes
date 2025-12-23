@@ -1,24 +1,10 @@
 {
-  "_totalAll": 6,
-  "_totalChanged": 6,
+  "_totalAll": 0,
+  "_totalChanged": 0,
   "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {
-    "databundles/images.zip/images/profileflair.tex": "Changed",
-    "databundles/images.zip/images/profileflair.xml": "Changed",
-    "motd_box4.tex": "Changed",
-    "motd_box7.tex": "Changed",
-    "motd_box8.tex": "Changed",
-    "motd_box9.tex": "Changed"
-  },
-  "changed": [
-    "databundles/images.zip/images/profileflair.tex",
-    "databundles/images.zip/images/profileflair.xml",
-    "motd_box4.tex",
-    "motd_box7.tex",
-    "motd_box8.tex",
-    "motd_box9.tex"
-  ],
+  "all": {},
+  "changed": [],
   "new": [],
   "removed": []
 }
