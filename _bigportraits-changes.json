@@ -1,10 +1,32 @@
 {
-  "_totalAll": 0,
+  "_totalAll": 10,
   "_totalChanged": 0,
-  "_totalNew": 0,
+  "_totalNew": 10,
   "_totalRemoved": 0,
-  "all": {},
+  "all": {
+    "databundles/bigportraits.zip/bigportraits/waxwell_spring.xml": "New",
+    "databundles/bigportraits.zip/bigportraits/webber_spring.xml": "New",
+    "databundles/bigportraits.zip/bigportraits/willow_spring.xml": "New",
+    "databundles/bigportraits.zip/bigportraits/wilson_spring.xml": "New",
+    "databundles/bigportraits.zip/bigportraits/winona_spring.xml": "New",
+    "waxwell_spring.tex": "New",
+    "webber_spring.tex": "New",
+    "willow_spring.tex": "New",
+    "wilson_spring.tex": "New",
+    "winona_spring.tex": "New"
+  },
   "changed": [],
-  "new": [],
+  "new": [
+    "databundles/bigportraits.zip/bigportraits/waxwell_spring.xml",
+    "databundles/bigportraits.zip/bigportraits/webber_spring.xml",
+    "databundles/bigportraits.zip/bigportraits/willow_spring.xml",
+    "databundles/bigportraits.zip/bigportraits/wilson_spring.xml",
+    "databundles/bigportraits.zip/bigportraits/winona_spring.xml",
+    "waxwell_spring.tex",
+    "webber_spring.tex",
+    "willow_spring.tex",
+    "wilson_spring.tex",
+    "winona_spring.tex"
+  ],
   "removed": []
 }
