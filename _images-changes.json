@@ -1,45 +1,18 @@
 {
-  "_totalAll": 16,
-  "_totalChanged": 12,
-  "_totalNew": 4,
+  "_totalAll": 3,
+  "_totalChanged": 3,
+  "_totalNew": 0,
   "_totalRemoved": 0,
   "all": {
-    "databundles/images.zip/images/iap_images_pack_spring_1.xml": "New",
-    "databundles/images.zip/images/inventoryimages1.tex": "Changed",
-    "databundles/images.zip/images/inventoryimages1.xml": "Changed",
-    "databundles/images.zip/images/inventoryimages2.tex": "Changed",
-    "databundles/images.zip/images/inventoryimages2.xml": "Changed",
-    "databundles/images.zip/images/inventoryimages3.tex": "Changed",
-    "databundles/images.zip/images/inventoryimages3.xml": "Changed",
-    "databundles/images.zip/images/inventoryimages4.tex": "Changed",
-    "databundles/images.zip/images/inventoryimages4.xml": "Changed",
-    "databundles/images.zip/images/playerportrait_playerportrait_bg_lanterninsect.xml": "New",
-    "databundles/images.zip/images/profileflair.tex": "Changed",
-    "databundles/images.zip/images/profileflair.xml": "Changed",
-    "iap_images_pack_spring_1.tex": "New",
-    "playerportrait_playerportrait_bg_lanterninsect.tex": "New",
-    "worldsettings_customization.tex": "Changed",
-    "worldsettings_customization.xml": "Changed"
+    "motd_box4.tex": "Changed",
+    "motd_box7.tex": "Changed",
+    "motd_box8.tex": "Changed"
   },
   "changed": [
-    "databundles/images.zip/images/inventoryimages1.tex",
-    "databundles/images.zip/images/inventoryimages1.xml",
-    "databundles/images.zip/images/inventoryimages2.tex",
-    "databundles/images.zip/images/inventoryimages2.xml",
-    "databundles/images.zip/images/inventoryimages3.tex",
-    "databundles/images.zip/images/inventoryimages3.xml",
-    "databundles/images.zip/images/inventoryimages4.tex",
-    "databundles/images.zip/images/inventoryimages4.xml",
-    "databundles/images.zip/images/profileflair.tex",
-    "databundles/images.zip/images/profileflair.xml",
-    "worldsettings_customization.tex",
-    "worldsettings_customization.xml"
+    "motd_box4.tex",
+    "motd_box7.tex",
+    "motd_box8.tex"
   ],
-  "new": [
-    "databundles/images.zip/images/iap_images_pack_spring_1.xml",
-    "databundles/images.zip/images/playerportrait_playerportrait_bg_lanterninsect.xml",
-    "iap_images_pack_spring_1.tex",
-    "playerportrait_playerportrait_bg_lanterninsect.tex"
-  ],
+  "new": [],
   "removed": []
 }
