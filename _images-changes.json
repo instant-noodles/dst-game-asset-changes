@@ -1,16 +1,10 @@
 {
-  "_totalAll": 2,
-  "_totalChanged": 2,
+  "_totalAll": 0,
+  "_totalChanged": 0,
   "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {
-    "worldgen_customization.tex": "Changed",
-    "worldgen_customization.xml": "Changed"
-  },
-  "changed": [
-    "worldgen_customization.tex",
-    "worldgen_customization.xml"
-  ],
+  "all": {},
+  "changed": [],
   "new": [],
   "removed": []
 }

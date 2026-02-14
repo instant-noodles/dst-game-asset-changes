@@ -1,23 +1,15 @@
 {
-  "_totalAll": 6,
-  "_totalChanged": 6,
+  "_totalAll": 2,
+  "_totalChanged": 2,
   "_totalNew": 0,
   "_totalRemoved": 0,
   "all": {
-    "buzzard_mutated.zip": "Changed",
     "databundles/anim_dynamic.zip/anim/dynamic/wilson_beard_spring.zip": "Changed",
-    "dst_menu_yoth.zip": "Changed",
-    "dynamic/wilson_beard_spring.dyn": "Changed",
-    "player_actions_eat.zip": "Changed",
-    "sheepington_basic.zip": "Changed"
+    "dynamic/wilson_beard_spring.dyn": "Changed"
   },
   "changed": [
-    "buzzard_mutated.zip",
     "databundles/anim_dynamic.zip/anim/dynamic/wilson_beard_spring.zip",
-    "dst_menu_yoth.zip",
-    "dynamic/wilson_beard_spring.dyn",
-    "player_actions_eat.zip",
-    "sheepington_basic.zip"
+    "dynamic/wilson_beard_spring.dyn"
   ],
   "new": [],
   "removed": []
