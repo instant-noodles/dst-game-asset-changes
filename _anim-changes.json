@@ -1,35 +1,23 @@
 {
-  "_totalAll": 12,
-  "_totalChanged": 12,
+  "_totalAll": 6,
+  "_totalChanged": 6,
   "_totalNew": 0,
   "_totalRemoved": 0,
   "all": {
-    "databundles/anim_dynamic.zip/anim/dynamic/axe_heart.zip": "Changed",
-    "databundles/anim_dynamic.zip/anim/dynamic/body_webber_spring.zip": "Changed",
-    "databundles/anim_dynamic.zip/anim/dynamic/webber_beard_spring.zip": "Changed",
+    "buzzard_mutated.zip": "Changed",
     "databundles/anim_dynamic.zip/anim/dynamic/wilson_beard_spring.zip": "Changed",
-    "databundles/anim_dynamic.zip/anim/dynamic/wilson_spring.zip": "Changed",
-    "dynamic/axe_heart.dyn": "Changed",
-    "dynamic/body_webber_spring.dyn": "Changed",
-    "dynamic/webber_beard_spring.dyn": "Changed",
+    "dst_menu_yoth.zip": "Changed",
     "dynamic/wilson_beard_spring.dyn": "Changed",
-    "dynamic/wilson_spring.dyn": "Changed",
-    "knight_build.zip": "Changed",
-    "knight_nightmare.zip": "Changed"
+    "player_actions_eat.zip": "Changed",
+    "sheepington_basic.zip": "Changed"
   },
   "changed": [
-    "databundles/anim_dynamic.zip/anim/dynamic/axe_heart.zip",
-    "databundles/anim_dynamic.zip/anim/dynamic/body_webber_spring.zip",
-    "databundles/anim_dynamic.zip/anim/dynamic/webber_beard_spring.zip",
+    "buzzard_mutated.zip",
     "databundles/anim_dynamic.zip/anim/dynamic/wilson_beard_spring.zip",
-    "databundles/anim_dynamic.zip/anim/dynamic/wilson_spring.zip",
-    "dynamic/axe_heart.dyn",
-    "dynamic/body_webber_spring.dyn",
-    "dynamic/webber_beard_spring.dyn",
+    "dst_menu_yoth.zip",
     "dynamic/wilson_beard_spring.dyn",
-    "dynamic/wilson_spring.dyn",
-    "knight_build.zip",
-    "knight_nightmare.zip"
+    "player_actions_eat.zip",
+    "sheepington_basic.zip"
   ],
   "new": [],
   "removed": []

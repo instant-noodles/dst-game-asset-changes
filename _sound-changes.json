@@ -1,16 +1,10 @@
 {
-  "_totalAll": 2,
-  "_totalChanged": 2,
+  "_totalAll": 0,
+  "_totalChanged": 0,
   "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {
-    "dontstarve.fev": "Changed",
-    "yoth_2026.fev": "Changed"
-  },
-  "changed": [
-    "dontstarve.fev",
-    "yoth_2026.fev"
-  ],
+  "all": {},
+  "changed": [],
   "new": [],
   "removed": []
 }
