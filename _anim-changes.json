@@ -4,12 +4,12 @@
   "_totalNew": 0,
   "_totalRemoved": 0,
   "all": {
-    "databundles/anim_dynamic.zip/anim/dynamic/wilson_beard_spring.zip": "Changed",
-    "dynamic/wilson_beard_spring.dyn": "Changed"
+    "databundles/anim_dynamic.zip/anim/dynamic/armor_marble_planet.zip": "Changed",
+    "dynamic/armor_marble_planet.dyn": "Changed"
   },
   "changed": [
-    "databundles/anim_dynamic.zip/anim/dynamic/wilson_beard_spring.zip",
-    "dynamic/wilson_beard_spring.dyn"
+    "databundles/anim_dynamic.zip/anim/dynamic/armor_marble_planet.zip",
+    "dynamic/armor_marble_planet.dyn"
   ],
   "new": [],
   "removed": []
