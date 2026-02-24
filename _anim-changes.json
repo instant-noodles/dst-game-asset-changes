@@ -1,16 +1,10 @@
 {
-  "_totalAll": 2,
-  "_totalChanged": 2,
+  "_totalAll": 0,
+  "_totalChanged": 0,
   "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {
-    "databundles/anim_dynamic.zip/anim/dynamic/armor_marble_planet.zip": "Changed",
-    "dynamic/armor_marble_planet.dyn": "Changed"
-  },
-  "changed": [
-    "databundles/anim_dynamic.zip/anim/dynamic/armor_marble_planet.zip",
-    "dynamic/armor_marble_planet.dyn"
-  ],
+  "all": {},
+  "changed": [],
   "new": [],
   "removed": []
 }
