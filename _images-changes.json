@@ -1,10 +1,47 @@
 {
-  "_totalAll": 0,
-  "_totalChanged": 0,
-  "_totalNew": 0,
+  "_totalAll": 17,
+  "_totalChanged": 11,
+  "_totalNew": 6,
   "_totalRemoved": 0,
-  "all": {},
-  "changed": [],
-  "new": [],
+  "all": {
+    "databundles/images.zip/images/inventoryimages1.tex": "Changed",
+    "databundles/images.zip/images/inventoryimages1.xml": "Changed",
+    "databundles/images.zip/images/inventoryimages2.tex": "Changed",
+    "databundles/images.zip/images/inventoryimages2.xml": "Changed",
+    "databundles/images.zip/images/inventoryimages3.tex": "Changed",
+    "databundles/images.zip/images/inventoryimages3.xml": "Changed",
+    "databundles/images.zip/images/inventoryimages4.tex": "Changed",
+    "databundles/images.zip/images/inventoryimages4.xml": "Changed",
+    "databundles/images.zip/images/playerportrait_playerportrait_bg_eyebrellahat_insect.xml": "New",
+    "databundles/images.zip/images/profileflair.tex": "Changed",
+    "databundles/images.zip/images/profileflair.xml": "Changed",
+    "motd_box9.tex": "Changed",
+    "playerportrait_playerportrait_bg_eyebrellahat_insect.tex": "New",
+    "thankyou_rotwood.tex": "New",
+    "thankyou_rotwood.xml": "New",
+    "w_radio_parts.tex": "New",
+    "w_radio_parts.xml": "New"
+  },
+  "changed": [
+    "databundles/images.zip/images/inventoryimages1.tex",
+    "databundles/images.zip/images/inventoryimages1.xml",
+    "databundles/images.zip/images/inventoryimages2.tex",
+    "databundles/images.zip/images/inventoryimages2.xml",
+    "databundles/images.zip/images/inventoryimages3.tex",
+    "databundles/images.zip/images/inventoryimages3.xml",
+    "databundles/images.zip/images/inventoryimages4.tex",
+    "databundles/images.zip/images/inventoryimages4.xml",
+    "databundles/images.zip/images/profileflair.tex",
+    "databundles/images.zip/images/profileflair.xml",
+    "motd_box9.tex"
+  ],
+  "new": [
+    "databundles/images.zip/images/playerportrait_playerportrait_bg_eyebrellahat_insect.xml",
+    "playerportrait_playerportrait_bg_eyebrellahat_insect.tex",
+    "thankyou_rotwood.tex",
+    "thankyou_rotwood.xml",
+    "w_radio_parts.tex",
+    "w_radio_parts.xml"
+  ],
   "removed": []
 }
