@@ -1,49 +1,22 @@
 {
-  "_totalAll": 18,
-  "_totalChanged": 16,
-  "_totalNew": 2,
+  "_totalAll": 5,
+  "_totalChanged": 5,
+  "_totalNew": 0,
   "_totalRemoved": 0,
   "all": {
-    "databundles/images.zip/images/inventoryimages3.tex": "Changed",
-    "databundles/images.zip/images/inventoryimages3.xml": "Changed",
-    "databundles/images.zip/images/inventoryimages4.tex": "Changed",
-    "databundles/images.zip/images/inventoryimages4.xml": "Changed",
-    "databundles/images.zip/images/skilltree.tex": "Changed",
-    "databundles/images.zip/images/skilltree.xml": "Changed",
-    "databundles/images.zip/images/skilltree2.tex": "Changed",
-    "databundles/images.zip/images/skilltree2.xml": "Changed",
-    "databundles/images.zip/images/skilltree3.tex": "Changed",
-    "databundles/images.zip/images/skilltree3.xml": "Changed",
-    "databundles/images.zip/images/skilltree4.tex": "Changed",
-    "databundles/images.zip/images/skilltree4.xml": "Changed",
-    "databundles/images.zip/images/skilltree5.tex": "Changed",
-    "databundles/images.zip/images/skilltree5.xml": "Changed",
-    "databundles/images.zip/images/skilltree6.tex": "New",
-    "databundles/images.zip/images/skilltree6.xml": "New",
+    "databundles/images.zip/images/skilltree6.tex": "Changed",
     "databundles/images.zip/images/skilltree_icons.tex": "Changed",
-    "databundles/images.zip/images/skilltree_icons.xml": "Changed"
+    "databundles/images.zip/images/skilltree_icons.xml": "Changed",
+    "motd_box5.tex": "Changed",
+    "motd_box7.tex": "Changed"
   },
   "changed": [
-    "databundles/images.zip/images/inventoryimages3.tex",
-    "databundles/images.zip/images/inventoryimages3.xml",
-    "databundles/images.zip/images/inventoryimages4.tex",
-    "databundles/images.zip/images/inventoryimages4.xml",
-    "databundles/images.zip/images/skilltree.tex",
-    "databundles/images.zip/images/skilltree.xml",
-    "databundles/images.zip/images/skilltree2.tex",
-    "databundles/images.zip/images/skilltree2.xml",
-    "databundles/images.zip/images/skilltree3.tex",
-    "databundles/images.zip/images/skilltree3.xml",
-    "databundles/images.zip/images/skilltree4.tex",
-    "databundles/images.zip/images/skilltree4.xml",
-    "databundles/images.zip/images/skilltree5.tex",
-    "databundles/images.zip/images/skilltree5.xml",
-    "databundles/images.zip/images/skilltree_icons.tex",
-    "databundles/images.zip/images/skilltree_icons.xml"
-  ],
-  "new": [
     "databundles/images.zip/images/skilltree6.tex",
-    "databundles/images.zip/images/skilltree6.xml"
+    "databundles/images.zip/images/skilltree_icons.tex",
+    "databundles/images.zip/images/skilltree_icons.xml",
+    "motd_box5.tex",
+    "motd_box7.tex"
   ],
+  "new": [],
   "removed": []
 }
