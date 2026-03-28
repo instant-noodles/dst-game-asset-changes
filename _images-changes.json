@@ -1,10 +1,22 @@
 {
-  "_totalAll": 0,
-  "_totalChanged": 0,
+  "_totalAll": 5,
+  "_totalChanged": 5,
   "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {},
-  "changed": [],
+  "all": {
+    "databundles/images.zip/images/inventoryimages3.tex": "Changed",
+    "databundles/images.zip/images/inventoryimages3.xml": "Changed",
+    "databundles/images.zip/images/inventoryimages4.tex": "Changed",
+    "databundles/images.zip/images/inventoryimages4.xml": "Changed",
+    "w_radio_parts.tex": "Changed"
+  },
+  "changed": [
+    "databundles/images.zip/images/inventoryimages3.tex",
+    "databundles/images.zip/images/inventoryimages3.xml",
+    "databundles/images.zip/images/inventoryimages4.tex",
+    "databundles/images.zip/images/inventoryimages4.xml",
+    "w_radio_parts.tex"
+  ],
   "new": [],
   "removed": []
 }

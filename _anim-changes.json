@@ -1,19 +1,31 @@
 {
-  "_totalAll": 4,
-  "_totalChanged": 4,
+  "_totalAll": 10,
+  "_totalChanged": 10,
   "_totalNew": 0,
   "_totalRemoved": 0,
   "all": {
     "databundles/anim_dynamic.zip/anim/dynamic/w_radio_basic.zip": "Changed",
+    "dynamic/resurrectionstatue_monster.dyn": "Changed",
     "dynamic/w_radio_basic.dyn": "Changed",
     "player_wx78_actions.zip": "Changed",
-    "status_wx.zip": "Changed"
+    "status_wx_chest.zip": "Changed",
+    "ui_alterguardianhat_1x6.zip": "Changed",
+    "ui_wx78_backupbody_5x3.zip": "Changed",
+    "wx78_drone_zap_overlay.zip": "Changed",
+    "wx_chips.zip": "Changed",
+    "wx_fx.zip": "Changed"
   },
   "changed": [
     "databundles/anim_dynamic.zip/anim/dynamic/w_radio_basic.zip",
+    "dynamic/resurrectionstatue_monster.dyn",
     "dynamic/w_radio_basic.dyn",
     "player_wx78_actions.zip",
-    "status_wx.zip"
+    "status_wx_chest.zip",
+    "ui_alterguardianhat_1x6.zip",
+    "ui_wx78_backupbody_5x3.zip",
+    "wx78_drone_zap_overlay.zip",
+    "wx_chips.zip",
+    "wx_fx.zip"
   ],
   "new": [],
   "removed": []

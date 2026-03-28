@@ -1,10 +1,26 @@
 {
-  "_totalAll": 0,
-  "_totalChanged": 0,
-  "_totalNew": 0,
-  "_totalRemoved": 0,
-  "all": {},
-  "changed": [],
-  "new": [],
-  "removed": []
+  "_totalAll": 6,
+  "_totalChanged": 2,
+  "_totalNew": 2,
+  "_totalRemoved": 2,
+  "all": {
+    "WX_rework.fev": "Changed",
+    "WX_rework.fsb/WX_activate_chassis_HUD.ogg": "New",
+    "WX_rework.fsb/wx_metal_arms_retract_DST.ogg": "Removed",
+    "WX_rework.fsb/wx_metal_fold_click_DST.ogg": "Removed",
+    "dontstarve.fev": "Changed",
+    "music_frontend_WX2.fsb/DST_WXSkillSpotlight_FrontEnd_149bpm_V1.ogg": "New"
+  },
+  "changed": [
+    "WX_rework.fev",
+    "dontstarve.fev"
+  ],
+  "new": [
+    "WX_rework.fsb/WX_activate_chassis_HUD.ogg",
+    "music_frontend_WX2.fsb/DST_WXSkillSpotlight_FrontEnd_149bpm_V1.ogg"
+  ],
+  "removed": [
+    "WX_rework.fsb/wx_metal_arms_retract_DST.ogg",
+    "WX_rework.fsb/wx_metal_fold_click_DST.ogg"
+  ]
 }
