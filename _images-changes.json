@@ -1,21 +1,29 @@
 {
-  "_totalAll": 5,
-  "_totalChanged": 5,
+  "_totalAll": 9,
+  "_totalChanged": 9,
   "_totalNew": 0,
   "_totalRemoved": 0,
   "all": {
+    "databundles/images.zip/images/inventoryimages1.tex": "Changed",
+    "databundles/images.zip/images/inventoryimages1.xml": "Changed",
+    "databundles/images.zip/images/inventoryimages2.tex": "Changed",
+    "databundles/images.zip/images/inventoryimages2.xml": "Changed",
     "databundles/images.zip/images/inventoryimages3.tex": "Changed",
     "databundles/images.zip/images/inventoryimages3.xml": "Changed",
     "databundles/images.zip/images/inventoryimages4.tex": "Changed",
     "databundles/images.zip/images/inventoryimages4.xml": "Changed",
-    "w_radio_parts.tex": "Changed"
+    "motd_box7.tex": "Changed"
   },
   "changed": [
+    "databundles/images.zip/images/inventoryimages1.tex",
+    "databundles/images.zip/images/inventoryimages1.xml",
+    "databundles/images.zip/images/inventoryimages2.tex",
+    "databundles/images.zip/images/inventoryimages2.xml",
     "databundles/images.zip/images/inventoryimages3.tex",
     "databundles/images.zip/images/inventoryimages3.xml",
     "databundles/images.zip/images/inventoryimages4.tex",
     "databundles/images.zip/images/inventoryimages4.xml",
-    "w_radio_parts.tex"
+    "motd_box7.tex"
   ],
   "new": [],
   "removed": []

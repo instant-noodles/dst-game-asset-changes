@@ -1,26 +1,32 @@
 {
-  "_totalAll": 6,
+  "_totalAll": 9,
   "_totalChanged": 2,
-  "_totalNew": 2,
-  "_totalRemoved": 2,
+  "_totalNew": 4,
+  "_totalRemoved": 3,
   "all": {
     "WX_rework.fev": "Changed",
-    "WX_rework.fsb/WX_activate_chassis_HUD.ogg": "New",
-    "WX_rework.fsb/wx_metal_arms_retract_DST.ogg": "Removed",
-    "WX_rework.fsb/wx_metal_fold_click_DST.ogg": "Removed",
+    "WX_rework.fsb/WX_magneto_wobble_shield_LP-005.ogg": "New",
+    "WX_rework.fsb/WX_screech_shield_LP_DST.ogg": "New",
+    "bat.fsb/DST_hutch_pop.ogg": "New",
     "dontstarve.fev": "Changed",
-    "music_frontend_WX2.fsb/DST_WXSkillSpotlight_FrontEnd_149bpm_V1.ogg": "New"
+    "music_frontend.fsb/DS_WX78 Theme 112bpm.ogg": "Removed",
+    "music_frontend_WX.fsb/DS_WX78 Theme 112bpm.ogg": "New",
+    "music_frontend_WX2.fsb/DST_WXSkillSpotlight_FrontEnd_149bpm_V1.ogg": "Removed",
+    "together.fsb/DST_hutch_pop.ogg": "Removed"
   },
   "changed": [
     "WX_rework.fev",
     "dontstarve.fev"
   ],
   "new": [
-    "WX_rework.fsb/WX_activate_chassis_HUD.ogg",
-    "music_frontend_WX2.fsb/DST_WXSkillSpotlight_FrontEnd_149bpm_V1.ogg"
+    "WX_rework.fsb/WX_magneto_wobble_shield_LP-005.ogg",
+    "WX_rework.fsb/WX_screech_shield_LP_DST.ogg",
+    "bat.fsb/DST_hutch_pop.ogg",
+    "music_frontend_WX.fsb/DS_WX78 Theme 112bpm.ogg"
   ],
   "removed": [
-    "WX_rework.fsb/wx_metal_arms_retract_DST.ogg",
-    "WX_rework.fsb/wx_metal_fold_click_DST.ogg"
+    "music_frontend.fsb/DS_WX78 Theme 112bpm.ogg",
+    "music_frontend_WX2.fsb/DST_WXSkillSpotlight_FrontEnd_149bpm_V1.ogg",
+    "together.fsb/DST_hutch_pop.ogg"
   ]
 }
