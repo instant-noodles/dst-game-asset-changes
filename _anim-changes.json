@@ -1,16 +1,35 @@
 {
-  "_totalAll": 2,
-  "_totalChanged": 2,
-  "_totalNew": 0,
+  "_totalAll": 11,
+  "_totalChanged": 7,
+  "_totalNew": 4,
   "_totalRemoved": 0,
   "all": {
+    "brightmare_gestalt_evolved.zip": "Changed",
+    "gestalt_cage.zip": "Changed",
     "player_wx78_actions.zip": "Changed",
-    "wx78_drone_scout.zip": "Changed"
+    "shadow_heart_vein.zip": "New",
+    "status_meter_wx_shield.zip": "Changed",
+    "status_wx_chest.zip": "Changed",
+    "wx78_drone_scout.zip": "Changed",
+    "wx78_gestalttrapper.zip": "New",
+    "wx78_nightmare_fuel.zip": "New",
+    "wx78_possessed_shadow.zip": "New",
+    "wx_chassis.zip": "Changed"
   },
   "changed": [
+    "brightmare_gestalt_evolved.zip",
+    "gestalt_cage.zip",
     "player_wx78_actions.zip",
-    "wx78_drone_scout.zip"
+    "status_meter_wx_shield.zip",
+    "status_wx_chest.zip",
+    "wx78_drone_scout.zip",
+    "wx_chassis.zip"
   ],
-  "new": [],
+  "new": [
+    "shadow_heart_vein.zip",
+    "wx78_gestalttrapper.zip",
+    "wx78_nightmare_fuel.zip",
+    "wx78_possessed_shadow.zip"
+  ],
   "removed": []
 }

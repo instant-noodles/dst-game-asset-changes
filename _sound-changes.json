@@ -1,10 +1,42 @@
 {
-  "_totalAll": 0,
-  "_totalChanged": 0,
-  "_totalNew": 0,
-  "_totalRemoved": 0,
-  "all": {},
-  "changed": [],
-  "new": [],
-  "removed": []
+  "_totalAll": 14,
+  "_totalChanged": 3,
+  "_totalNew": 10,
+  "_totalRemoved": 1,
+  "all": {
+    "WX_rework.fev": "Changed",
+    "WX_rework.fsb/WX_screech_shield_LP_DST.ogg": "Removed",
+    "WX_rework.fsb/wx78_dizzy_LP_DST_001.ogg": "New",
+    "WX_rework.fsb/wx78_screech_pre_DST_001.ogg": "New",
+    "bat.fsb/wx_gestaltpossessed_sinking_DST.ogg": "New",
+    "dontstarve.fev": "Changed",
+    "rifts5.fev": "Changed",
+    "wx78.fsb/wx_gestaltpossessed_death_DST.ogg": "New",
+    "wx78.fsb/wx_gestaltpossessed_hurt_DST__001.ogg": "New",
+    "wx78.fsb/wx_gestaltpossessed_hurt_DST__002.ogg": "New",
+    "wx78.fsb/wx_gestaltpossessed_hurt_DST__003.ogg": "New",
+    "wx78.fsb/wx_gestaltpossessed_hurt_DST__004.ogg": "New",
+    "wx78.fsb/wx_gestaltpossessed_hurt_DST__005.ogg": "New",
+    "wx78.fsb/wx_gestaltpossessed_hurt_DST__006.ogg": "New"
+  },
+  "changed": [
+    "WX_rework.fev",
+    "dontstarve.fev",
+    "rifts5.fev"
+  ],
+  "new": [
+    "WX_rework.fsb/wx78_dizzy_LP_DST_001.ogg",
+    "WX_rework.fsb/wx78_screech_pre_DST_001.ogg",
+    "bat.fsb/wx_gestaltpossessed_sinking_DST.ogg",
+    "wx78.fsb/wx_gestaltpossessed_death_DST.ogg",
+    "wx78.fsb/wx_gestaltpossessed_hurt_DST__001.ogg",
+    "wx78.fsb/wx_gestaltpossessed_hurt_DST__002.ogg",
+    "wx78.fsb/wx_gestaltpossessed_hurt_DST__003.ogg",
+    "wx78.fsb/wx_gestaltpossessed_hurt_DST__004.ogg",
+    "wx78.fsb/wx_gestaltpossessed_hurt_DST__005.ogg",
+    "wx78.fsb/wx_gestaltpossessed_hurt_DST__006.ogg"
+  ],
+  "removed": [
+    "WX_rework.fsb/WX_screech_shield_LP_DST.ogg"
+  ]
 }
