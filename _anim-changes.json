@@ -1,20 +1,25 @@
 {
-  "_totalAll": 4,
-  "_totalChanged": 4,
-  "_totalNew": 0,
+  "_totalAll": 6,
+  "_totalChanged": 5,
+  "_totalNew": 1,
   "_totalRemoved": 0,
   "all": {
-    "player_wx78_actions.zip": "Changed",
-    "status_wx_chest.zip": "Changed",
-    "ui_wx78moduleremover.zip": "Changed",
+    "brightmare_gestalt_evolved.zip": "Changed",
+    "databundles/anim_dynamic.zip/anim/dynamic/wathgrithr_pirate.zip": "Changed",
+    "dst_menu_meta6.zip": "Changed",
+    "dynamic/wathgrithr_pirate.dyn": "Changed",
+    "wx78_lunar_affinity_fx.zip": "New",
     "wx_chassis.zip": "Changed"
   },
   "changed": [
-    "player_wx78_actions.zip",
-    "status_wx_chest.zip",
-    "ui_wx78moduleremover.zip",
+    "brightmare_gestalt_evolved.zip",
+    "databundles/anim_dynamic.zip/anim/dynamic/wathgrithr_pirate.zip",
+    "dst_menu_meta6.zip",
+    "dynamic/wathgrithr_pirate.dyn",
     "wx_chassis.zip"
   ],
-  "new": [],
+  "new": [
+    "wx78_lunar_affinity_fx.zip"
+  ],
   "removed": []
 }

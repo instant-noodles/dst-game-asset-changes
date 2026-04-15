@@ -1,62 +1,14 @@
 {
-  "_totalAll": 24,
-  "_totalChanged": 3,
-  "_totalNew": 11,
-  "_totalRemoved": 10,
+  "_totalAll": 1,
+  "_totalChanged": 1,
+  "_totalNew": 0,
+  "_totalRemoved": 0,
   "all": {
-    "WX_rework.fev": "Changed",
-    "WX_rework.fsb/wx78_gestalt_attractor_pulse_DST.ogg": "New",
-    "amb_stream.fsb/SG_SFX_puft_voice_inhale_01_v02.ogg": "New",
-    "amb_stream.fsb/SG_SFX_puft_voice_inhale_01_v03.ogg": "New",
-    "amb_stream.fsb/SG_SFX_puft_voice_inhale_02_v02.ogg": "New",
-    "amb_stream.fsb/SG_SFX_puft_voice_inhale_02_v03.ogg": "New",
-    "amb_stream.fsb/SG_SFX_puft_voice_inhale_03_v02.ogg": "New",
-    "amb_stream.fsb/SG_SFX_puft_voice_inhale_03_v03.ogg": "New",
-    "amb_stream.fsb/SG_SFX_puft_voice_inhale_04_v02.ogg": "New",
-    "amb_stream.fsb/SG_SFX_puft_voice_inhale_05_v02.ogg": "New",
-    "amb_stream.fsb/SG_SFX_puft_voice_inhale_05_v03.ogg": "New",
-    "amb_stream.fsb/SG_SFX_puft_voice_inhale_06_v03.ogg": "New",
-    "dontstarve.fev": "Changed",
-    "dontstarve_DLC001.fev": "Changed",
-    "glommer.fsb/SG_SFX_puft_voice_inhale_01_v02.ogg": "Removed",
-    "glommer.fsb/SG_SFX_puft_voice_inhale_01_v03.ogg": "Removed",
-    "glommer.fsb/SG_SFX_puft_voice_inhale_02_v02.ogg": "Removed",
-    "glommer.fsb/SG_SFX_puft_voice_inhale_02_v03.ogg": "Removed",
-    "glommer.fsb/SG_SFX_puft_voice_inhale_03_v02.ogg": "Removed",
-    "glommer.fsb/SG_SFX_puft_voice_inhale_03_v03.ogg": "Removed",
-    "glommer.fsb/SG_SFX_puft_voice_inhale_04_v02.ogg": "Removed",
-    "glommer.fsb/SG_SFX_puft_voice_inhale_05_v02.ogg": "Removed",
-    "glommer.fsb/SG_SFX_puft_voice_inhale_05_v03.ogg": "Removed",
-    "glommer.fsb/SG_SFX_puft_voice_inhale_06_v03.ogg": "Removed"
+    "WX_rework.fev": "Changed"
   },
   "changed": [
-    "WX_rework.fev",
-    "dontstarve.fev",
-    "dontstarve_DLC001.fev"
+    "WX_rework.fev"
   ],
-  "new": [
-    "WX_rework.fsb/wx78_gestalt_attractor_pulse_DST.ogg",
-    "amb_stream.fsb/SG_SFX_puft_voice_inhale_01_v02.ogg",
-    "amb_stream.fsb/SG_SFX_puft_voice_inhale_01_v03.ogg",
-    "amb_stream.fsb/SG_SFX_puft_voice_inhale_02_v02.ogg",
-    "amb_stream.fsb/SG_SFX_puft_voice_inhale_02_v03.ogg",
-    "amb_stream.fsb/SG_SFX_puft_voice_inhale_03_v02.ogg",
-    "amb_stream.fsb/SG_SFX_puft_voice_inhale_03_v03.ogg",
-    "amb_stream.fsb/SG_SFX_puft_voice_inhale_04_v02.ogg",
-    "amb_stream.fsb/SG_SFX_puft_voice_inhale_05_v02.ogg",
-    "amb_stream.fsb/SG_SFX_puft_voice_inhale_05_v03.ogg",
-    "amb_stream.fsb/SG_SFX_puft_voice_inhale_06_v03.ogg"
-  ],
-  "removed": [
-    "glommer.fsb/SG_SFX_puft_voice_inhale_01_v02.ogg",
-    "glommer.fsb/SG_SFX_puft_voice_inhale_01_v03.ogg",
-    "glommer.fsb/SG_SFX_puft_voice_inhale_02_v02.ogg",
-    "glommer.fsb/SG_SFX_puft_voice_inhale_02_v03.ogg",
-    "glommer.fsb/SG_SFX_puft_voice_inhale_03_v02.ogg",
-    "glommer.fsb/SG_SFX_puft_voice_inhale_03_v03.ogg",
-    "glommer.fsb/SG_SFX_puft_voice_inhale_04_v02.ogg",
-    "glommer.fsb/SG_SFX_puft_voice_inhale_05_v02.ogg",
-    "glommer.fsb/SG_SFX_puft_voice_inhale_05_v03.ogg",
-    "glommer.fsb/SG_SFX_puft_voice_inhale_06_v03.ogg"
-  ]
+  "new": [],
+  "removed": []
 }
