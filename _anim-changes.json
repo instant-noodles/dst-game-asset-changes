@@ -1,25 +1,20 @@
 {
-  "_totalAll": 6,
-  "_totalChanged": 5,
-  "_totalNew": 1,
+  "_totalAll": 4,
+  "_totalChanged": 4,
+  "_totalNew": 0,
   "_totalRemoved": 0,
   "all": {
-    "brightmare_gestalt_evolved.zip": "Changed",
-    "databundles/anim_dynamic.zip/anim/dynamic/wathgrithr_pirate.zip": "Changed",
-    "dst_menu_meta6.zip": "Changed",
-    "dynamic/wathgrithr_pirate.dyn": "Changed",
-    "wx78_lunar_affinity_fx.zip": "New",
-    "wx_chassis.zip": "Changed"
+    "databundles/anim_dynamic.zip/anim/dynamic/hand_walter_ancient.zip": "Changed",
+    "databundles/anim_dynamic.zip/anim/dynamic/walter_ancient.zip": "Changed",
+    "dynamic/hand_walter_ancient.dyn": "Changed",
+    "dynamic/walter_ancient.dyn": "Changed"
   },
   "changed": [
-    "brightmare_gestalt_evolved.zip",
-    "databundles/anim_dynamic.zip/anim/dynamic/wathgrithr_pirate.zip",
-    "dst_menu_meta6.zip",
-    "dynamic/wathgrithr_pirate.dyn",
-    "wx_chassis.zip"
+    "databundles/anim_dynamic.zip/anim/dynamic/hand_walter_ancient.zip",
+    "databundles/anim_dynamic.zip/anim/dynamic/walter_ancient.zip",
+    "dynamic/hand_walter_ancient.dyn",
+    "dynamic/walter_ancient.dyn"
   ],
-  "new": [
-    "wx78_lunar_affinity_fx.zip"
-  ],
+  "new": [],
   "removed": []
 }
