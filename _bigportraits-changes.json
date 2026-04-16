@@ -1,16 +1,10 @@
 {
-  "_totalAll": 2,
+  "_totalAll": 0,
   "_totalChanged": 0,
-  "_totalNew": 2,
+  "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {
-    "databundles/bigportraits.zip/bigportraits/wx78_ancient.xml": "New",
-    "wx78_ancient.tex": "New"
-  },
+  "all": {},
   "changed": [],
-  "new": [
-    "databundles/bigportraits.zip/bigportraits/wx78_ancient.xml",
-    "wx78_ancient.tex"
-  ],
+  "new": [],
   "removed": []
 }
