@@ -1,10 +1,43 @@
 {
-  "_totalAll": 0,
-  "_totalChanged": 0,
-  "_totalNew": 0,
+  "_totalAll": 15,
+  "_totalChanged": 3,
+  "_totalNew": 12,
   "_totalRemoved": 0,
-  "all": {},
-  "changed": [],
-  "new": [],
+  "all": {
+    "WX_rework.fev": "Changed",
+    "WX_rework.fsb/wx78_shadowdebuffer_off_DST.ogg": "New",
+    "WX_rework.fsb/wx78_shadowdebuffer_scanlp_A_DST.ogg": "New",
+    "WX_rework.fsb/wx78_shadowdebuffer_start_DST.ogg": "New",
+    "WX_rework.fsb/wx78_shadowdrone_debuffer_move_v2_DST-007.ogg": "New",
+    "WX_rework.fsb/wx78_shadowdrone_debuffer_move_v2_DST-008.ogg": "New",
+    "WX_rework.fsb/wx78_shadowdrone_debuffer_move_v2_DST-009.ogg": "New",
+    "WX_rework.fsb/wx78_shadowdrone_debuffer_move_v2_DST-010.ogg": "New",
+    "WX_rework.fsb/wx78_shadowgauge_up_HUD_DST-001.ogg": "New",
+    "dontstarve.fev": "Changed",
+    "moonstorm.fev": "Changed",
+    "sfx.fsb/wx78_shadowgauge_up_HUD_DST_v1.ogg": "New",
+    "wx78.fsb/wx78_gestaltpossessed_emote_DST.ogg": "New",
+    "wx78.fsb/wx78_gestaltpossessed_eyerub_DST.ogg": "New",
+    "wx78.fsb/wx78_gestaltpossessed_pose_DST.ogg": "New"
+  },
+  "changed": [
+    "WX_rework.fev",
+    "dontstarve.fev",
+    "moonstorm.fev"
+  ],
+  "new": [
+    "WX_rework.fsb/wx78_shadowdebuffer_off_DST.ogg",
+    "WX_rework.fsb/wx78_shadowdebuffer_scanlp_A_DST.ogg",
+    "WX_rework.fsb/wx78_shadowdebuffer_start_DST.ogg",
+    "WX_rework.fsb/wx78_shadowdrone_debuffer_move_v2_DST-007.ogg",
+    "WX_rework.fsb/wx78_shadowdrone_debuffer_move_v2_DST-008.ogg",
+    "WX_rework.fsb/wx78_shadowdrone_debuffer_move_v2_DST-009.ogg",
+    "WX_rework.fsb/wx78_shadowdrone_debuffer_move_v2_DST-010.ogg",
+    "WX_rework.fsb/wx78_shadowgauge_up_HUD_DST-001.ogg",
+    "sfx.fsb/wx78_shadowgauge_up_HUD_DST_v1.ogg",
+    "wx78.fsb/wx78_gestaltpossessed_emote_DST.ogg",
+    "wx78.fsb/wx78_gestaltpossessed_eyerub_DST.ogg",
+    "wx78.fsb/wx78_gestaltpossessed_pose_DST.ogg"
+  ],
   "removed": []
 }
