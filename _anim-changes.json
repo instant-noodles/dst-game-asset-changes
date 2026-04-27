@@ -1,44 +1,16 @@
 {
-  "_totalAll": 15,
-  "_totalChanged": 10,
-  "_totalNew": 3,
-  "_totalRemoved": 2,
+  "_totalAll": 2,
+  "_totalChanged": 2,
+  "_totalNew": 0,
+  "_totalRemoved": 0,
   "all": {
-    "databundles/anim_dynamic.zip/anim/dynamic/wendy_victorian.zip": "Changed",
-    "databundles/anim_dynamic.zip/anim/dynamic/wx78_ancient.zip": "Changed",
-    "dynamic/wendy_victorian.dyn": "Changed",
-    "dynamic/wx78_ancient.dyn": "Changed",
-    "player_idles_wendy.zip": "Changed",
     "status_wx.zip": "Changed",
-    "status_wx_chest.zip": "Changed",
-    "status_wx_chest_shadow.zip": "New",
-    "wood_chair.zip": "Changed",
-    "wood_table.zip": "Changed",
-    "wx78_nightmare_fuel.zip": "Removed",
-    "wx78_possessed_shadow.zip": "Removed",
-    "wx78_shadowdrone_debuffer.zip": "New",
-    "wx78_shadowdrone_harvester.zip": "New",
-    "wx_chips.zip": "Changed"
+    "wx78_shadowdrone_debuffer.zip": "Changed"
   },
   "changed": [
-    "databundles/anim_dynamic.zip/anim/dynamic/wendy_victorian.zip",
-    "databundles/anim_dynamic.zip/anim/dynamic/wx78_ancient.zip",
-    "dynamic/wendy_victorian.dyn",
-    "dynamic/wx78_ancient.dyn",
-    "player_idles_wendy.zip",
     "status_wx.zip",
-    "status_wx_chest.zip",
-    "wood_chair.zip",
-    "wood_table.zip",
-    "wx_chips.zip"
+    "wx78_shadowdrone_debuffer.zip"
   ],
-  "new": [
-    "status_wx_chest_shadow.zip",
-    "wx78_shadowdrone_debuffer.zip",
-    "wx78_shadowdrone_harvester.zip"
-  ],
-  "removed": [
-    "wx78_nightmare_fuel.zip",
-    "wx78_possessed_shadow.zip"
-  ]
+  "new": [],
+  "removed": []
 }
