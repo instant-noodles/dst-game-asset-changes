@@ -1,17 +1,56 @@
 {
-  "_totalAll": 2,
-  "_totalChanged": 1,
-  "_totalNew": 1,
-  "_totalRemoved": 0,
+  "_totalAll": 21,
+  "_totalChanged": 4,
+  "_totalNew": 13,
+  "_totalRemoved": 4,
   "all": {
     "WX_rework.fev": "Changed",
-    "WX_rework.fsb/wx78_shadowgauge_deactivate_DST.ogg": "New"
+    "WX_rework.fsb/DST_WX78_RagtimeMachine_BunnymenV5.ogg": "Removed",
+    "WX_rework.fsb/DST_WX78_RagtimeMachine_V3_Melody.ogg": "Removed",
+    "WX_rework.fsb/DST_WX78_RagtimeMachine_V3_Rhtythm.ogg": "Removed",
+    "WX_rework_music.fsb/DST_WX78_RagtimeMachine_BunnymenV5.ogg": "New",
+    "WX_rework_music.fsb/DST_WX78_RagtimeMachine_V3_Melody.ogg": "New",
+    "WX_rework_music.fsb/DST_WX78_RagtimeMachine_V3_Rhtythm.ogg": "New",
+    "WX_rework_music.fsb/wx78_shadowharvester_drone_deactivate_DST.ogg": "New",
+    "WX_rework_music.fsb/wx78_shadowharvester_drone_deploy_DST.ogg": "New",
+    "WX_rework_music.fsb/wx78_shadowharvester_drone_movement_DST-009.ogg": "New",
+    "WX_rework_music.fsb/wx78_shadowharvester_drone_movement_DST-010.ogg": "New",
+    "WX_rework_music.fsb/wx78_shadowharvester_drone_movement_DST-011.ogg": "New",
+    "WX_rework_music.fsb/wx78_shadowharvester_drone_movement_DST-012.ogg": "New",
+    "WX_rework_music.fsb/wx78_shadowharvester_drone_movement_DST-013.ogg": "New",
+    "WX_rework_music.fsb/wx78_shadowharvester_drone_movement_DST-014.ogg": "New",
+    "WX_rework_music.fsb/wx78_shadowharvester_drone_movement_DST-015.ogg": "New",
+    "WX_rework_music.fsb/wx78_shadowharvester_drone_movement_DST-016.ogg": "New",
+    "dontstarve.fev": "Changed",
+    "rifts5.fev": "Changed",
+    "sfx.fsb/wx78_shadowgauge_up_HUD_DST_v1.ogg": "Removed",
+    "skin_sfx.fev": "Changed"
   },
   "changed": [
-    "WX_rework.fev"
+    "WX_rework.fev",
+    "dontstarve.fev",
+    "rifts5.fev",
+    "skin_sfx.fev"
   ],
   "new": [
-    "WX_rework.fsb/wx78_shadowgauge_deactivate_DST.ogg"
+    "WX_rework_music.fsb/DST_WX78_RagtimeMachine_BunnymenV5.ogg",
+    "WX_rework_music.fsb/DST_WX78_RagtimeMachine_V3_Melody.ogg",
+    "WX_rework_music.fsb/DST_WX78_RagtimeMachine_V3_Rhtythm.ogg",
+    "WX_rework_music.fsb/wx78_shadowharvester_drone_deactivate_DST.ogg",
+    "WX_rework_music.fsb/wx78_shadowharvester_drone_deploy_DST.ogg",
+    "WX_rework_music.fsb/wx78_shadowharvester_drone_movement_DST-009.ogg",
+    "WX_rework_music.fsb/wx78_shadowharvester_drone_movement_DST-010.ogg",
+    "WX_rework_music.fsb/wx78_shadowharvester_drone_movement_DST-011.ogg",
+    "WX_rework_music.fsb/wx78_shadowharvester_drone_movement_DST-012.ogg",
+    "WX_rework_music.fsb/wx78_shadowharvester_drone_movement_DST-013.ogg",
+    "WX_rework_music.fsb/wx78_shadowharvester_drone_movement_DST-014.ogg",
+    "WX_rework_music.fsb/wx78_shadowharvester_drone_movement_DST-015.ogg",
+    "WX_rework_music.fsb/wx78_shadowharvester_drone_movement_DST-016.ogg"
   ],
-  "removed": []
+  "removed": [
+    "WX_rework.fsb/DST_WX78_RagtimeMachine_BunnymenV5.ogg",
+    "WX_rework.fsb/DST_WX78_RagtimeMachine_V3_Melody.ogg",
+    "WX_rework.fsb/DST_WX78_RagtimeMachine_V3_Rhtythm.ogg",
+    "sfx.fsb/wx78_shadowgauge_up_HUD_DST_v1.ogg"
+  ]
 }
