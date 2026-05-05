@@ -1,24 +1,10 @@
 {
-  "_totalAll": 6,
-  "_totalChanged": 6,
+  "_totalAll": 0,
+  "_totalChanged": 0,
   "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {
-    "frog.zip": "Changed",
-    "froglunar.zip": "Changed",
-    "froglunar_build.zip": "Changed",
-    "player_mount_wx78_upgrade.zip": "Changed",
-    "wx78_shadowdrone_debuffer.zip": "Changed",
-    "wx78_shadowdrone_harvester.zip": "Changed"
-  },
-  "changed": [
-    "frog.zip",
-    "froglunar.zip",
-    "froglunar_build.zip",
-    "player_mount_wx78_upgrade.zip",
-    "wx78_shadowdrone_debuffer.zip",
-    "wx78_shadowdrone_harvester.zip"
-  ],
+  "all": {},
+  "changed": [],
   "new": [],
   "removed": []
 }
