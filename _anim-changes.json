@@ -1,10 +1,26 @@
 {
-  "_totalAll": 0,
-  "_totalChanged": 0,
+  "_totalAll": 7,
+  "_totalChanged": 7,
   "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {},
-  "changed": [],
+  "all": {
+    "databundles/anim_dynamic.zip/anim/dynamic/dragonflyfurnace_adventure.zip": "Changed",
+    "databundles/anim_dynamic.zip/anim/dynamic/dragonflyfurnace_antique.zip": "Changed",
+    "databundles/anim_dynamic.zip/anim/dynamic/dragonflyfurnace_crystal.zip": "Changed",
+    "dragonfly_furnace.zip": "Changed",
+    "dynamic/dragonflyfurnace_adventure.dyn": "Changed",
+    "dynamic/dragonflyfurnace_antique.dyn": "Changed",
+    "dynamic/dragonflyfurnace_crystal.dyn": "Changed"
+  },
+  "changed": [
+    "databundles/anim_dynamic.zip/anim/dynamic/dragonflyfurnace_adventure.zip",
+    "databundles/anim_dynamic.zip/anim/dynamic/dragonflyfurnace_antique.zip",
+    "databundles/anim_dynamic.zip/anim/dynamic/dragonflyfurnace_crystal.zip",
+    "dragonfly_furnace.zip",
+    "dynamic/dragonflyfurnace_adventure.dyn",
+    "dynamic/dragonflyfurnace_antique.dyn",
+    "dynamic/dragonflyfurnace_crystal.dyn"
+  ],
   "new": [],
   "removed": []
 }
