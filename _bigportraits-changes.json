@@ -1,10 +1,36 @@
 {
-  "_totalAll": 0,
+  "_totalAll": 12,
   "_totalChanged": 0,
-  "_totalNew": 0,
+  "_totalNew": 12,
   "_totalRemoved": 0,
-  "all": {},
+  "all": {
+    "databundles/bigportraits.zip/bigportraits/walter_20s.xml": "New",
+    "databundles/bigportraits.zip/bigportraits/waxwell_western.xml": "New",
+    "databundles/bigportraits.zip/bigportraits/wilson_hazard.xml": "New",
+    "databundles/bigportraits.zip/bigportraits/winona_20s.xml": "New",
+    "databundles/bigportraits.zip/bigportraits/wolfgang_western.xml": "New",
+    "databundles/bigportraits.zip/bigportraits/wurt_western.xml": "New",
+    "walter_20s.tex": "New",
+    "waxwell_western.tex": "New",
+    "wilson_hazard.tex": "New",
+    "winona_20s.tex": "New",
+    "wolfgang_western.tex": "New",
+    "wurt_western.tex": "New"
+  },
   "changed": [],
-  "new": [],
+  "new": [
+    "databundles/bigportraits.zip/bigportraits/walter_20s.xml",
+    "databundles/bigportraits.zip/bigportraits/waxwell_western.xml",
+    "databundles/bigportraits.zip/bigportraits/wilson_hazard.xml",
+    "databundles/bigportraits.zip/bigportraits/winona_20s.xml",
+    "databundles/bigportraits.zip/bigportraits/wolfgang_western.xml",
+    "databundles/bigportraits.zip/bigportraits/wurt_western.xml",
+    "walter_20s.tex",
+    "waxwell_western.tex",
+    "wilson_hazard.tex",
+    "winona_20s.tex",
+    "wolfgang_western.tex",
+    "wurt_western.tex"
+  ],
   "removed": []
 }
