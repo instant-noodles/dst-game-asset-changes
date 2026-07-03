@@ -1,27 +1,21 @@
 {
-  "_totalAll": 8,
-  "_totalChanged": 8,
+  "_totalAll": 5,
+  "_totalChanged": 5,
   "_totalNew": 0,
   "_totalRemoved": 0,
   "all": {
-    "motd_box1.tex": "Changed",
-    "motd_box10.tex": "Changed",
-    "motd_box2.tex": "Changed",
-    "motd_box3.tex": "Changed",
-    "motd_box4.tex": "Changed",
-    "motd_box5.tex": "Changed",
-    "motd_box8.tex": "Changed",
-    "motd_box9.tex": "Changed"
+    "databundles/images.zip/images/inventoryimages1.tex": "Changed",
+    "databundles/images.zip/images/inventoryimages3.tex": "Changed",
+    "databundles/images.zip/images/inventoryimages3.xml": "Changed",
+    "databundles/images.zip/images/inventoryimages4.tex": "Changed",
+    "databundles/images.zip/images/inventoryimages4.xml": "Changed"
   },
   "changed": [
-    "motd_box1.tex",
-    "motd_box10.tex",
-    "motd_box2.tex",
-    "motd_box3.tex",
-    "motd_box4.tex",
-    "motd_box5.tex",
-    "motd_box8.tex",
-    "motd_box9.tex"
+    "databundles/images.zip/images/inventoryimages1.tex",
+    "databundles/images.zip/images/inventoryimages3.tex",
+    "databundles/images.zip/images/inventoryimages3.xml",
+    "databundles/images.zip/images/inventoryimages4.tex",
+    "databundles/images.zip/images/inventoryimages4.xml"
   ],
   "new": [],
   "removed": []
