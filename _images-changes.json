@@ -1,23 +1,9 @@
 {
-  "_totalAll": 24,
-  "_totalChanged": 20,
-  "_totalNew": 4,
+  "_totalAll": 8,
+  "_totalChanged": 8,
+  "_totalNew": 0,
   "_totalRemoved": 0,
   "all": {
-    "databundles/images.zip/images/9slice.tex": "New",
-    "databundles/images.zip/images/9slice.xml": "New",
-    "databundles/images.zip/images/inventoryimages1.tex": "Changed",
-    "databundles/images.zip/images/inventoryimages1.xml": "Changed",
-    "databundles/images.zip/images/inventoryimages2.tex": "Changed",
-    "databundles/images.zip/images/inventoryimages2.xml": "Changed",
-    "databundles/images.zip/images/inventoryimages3.tex": "Changed",
-    "databundles/images.zip/images/inventoryimages3.xml": "Changed",
-    "databundles/images.zip/images/inventoryimages4.tex": "Changed",
-    "databundles/images.zip/images/inventoryimages4.xml": "Changed",
-    "databundles/images.zip/images/npcchatflairs.tex": "Changed",
-    "databundles/images.zip/images/npcchatflairs.xml": "Changed",
-    "databundles/images.zip/images/screen_capture.tex": "New",
-    "databundles/images.zip/images/screen_capture.xml": "New",
     "motd_box1.tex": "Changed",
     "motd_box10.tex": "Changed",
     "motd_box2.tex": "Changed",
@@ -25,21 +11,9 @@
     "motd_box5.tex": "Changed",
     "motd_box6.tex": "Changed",
     "motd_box7.tex": "Changed",
-    "motd_box9.tex": "Changed",
-    "worldsettings_customization.tex": "Changed",
-    "worldsettings_customization.xml": "Changed"
+    "motd_box9.tex": "Changed"
   },
   "changed": [
-    "databundles/images.zip/images/inventoryimages1.tex",
-    "databundles/images.zip/images/inventoryimages1.xml",
-    "databundles/images.zip/images/inventoryimages2.tex",
-    "databundles/images.zip/images/inventoryimages2.xml",
-    "databundles/images.zip/images/inventoryimages3.tex",
-    "databundles/images.zip/images/inventoryimages3.xml",
-    "databundles/images.zip/images/inventoryimages4.tex",
-    "databundles/images.zip/images/inventoryimages4.xml",
-    "databundles/images.zip/images/npcchatflairs.tex",
-    "databundles/images.zip/images/npcchatflairs.xml",
     "motd_box1.tex",
     "motd_box10.tex",
     "motd_box2.tex",
@@ -47,15 +21,8 @@
     "motd_box5.tex",
     "motd_box6.tex",
     "motd_box7.tex",
-    "motd_box9.tex",
-    "worldsettings_customization.tex",
-    "worldsettings_customization.xml"
+    "motd_box9.tex"
   ],
-  "new": [
-    "databundles/images.zip/images/9slice.tex",
-    "databundles/images.zip/images/9slice.xml",
-    "databundles/images.zip/images/screen_capture.tex",
-    "databundles/images.zip/images/screen_capture.xml"
-  ],
+  "new": [],
   "removed": []
 }
