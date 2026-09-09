@@ -1,18 +1,32 @@
 {
-  "_totalAll": 3,
-  "_totalChanged": 3,
-  "_totalNew": 0,
-  "_totalRemoved": 0,
+  "_totalAll": 9,
+  "_totalChanged": 6,
+  "_totalNew": 2,
+  "_totalRemoved": 1,
   "all": {
+    "atrium_portal_fx.zip": "New",
+    "bat_boss_acid_build.zip": "Changed",
+    "charlie_basic.zip": "Changed",
     "charlie_boss_actions.zip": "Changed",
-    "charlie_boss_basic.zip": "Changed",
-    "shadow_insanity_player.zip": "Changed"
+    "charlie_boss_vines.zip": "Changed",
+    "databundles/anim_dynamic.zip/anim/dynamic/idleanimations_wx78_headadjust.zip": "Changed",
+    "dst_menu_rift8.zip": "New",
+    "shadow_insanity_player.zip": "Changed",
+    "sharkboi_basic_water.zip": "Removed"
   },
   "changed": [
+    "bat_boss_acid_build.zip",
+    "charlie_basic.zip",
     "charlie_boss_actions.zip",
-    "charlie_boss_basic.zip",
+    "charlie_boss_vines.zip",
+    "databundles/anim_dynamic.zip/anim/dynamic/idleanimations_wx78_headadjust.zip",
     "shadow_insanity_player.zip"
   ],
-  "new": [],
-  "removed": []
+  "new": [
+    "atrium_portal_fx.zip",
+    "dst_menu_rift8.zip"
+  ],
+  "removed": [
+    "sharkboi_basic_water.zip"
+  ]
 }

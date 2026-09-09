@@ -1,25 +1,60 @@
 {
-  "_totalAll": 6,
-  "_totalChanged": 1,
-  "_totalNew": 5,
-  "_totalRemoved": 0,
+  "_totalAll": 23,
+  "_totalChanged": 2,
+  "_totalNew": 12,
+  "_totalRemoved": 9,
   "all": {
+    "rifts.fev": "Changed",
     "rifts8.fev": "Changed",
-    "rifts8.fsb/charlie_ritual_atrium_shrouden_summon_1_DST.ogg": "New",
-    "rifts8.fsb/charlie_ritual_atrium_shrouden_summon_2_DST.ogg": "New",
-    "rifts8.fsb/charlie_ritual_atrium_shrouden_summon_L_DST.ogg": "New",
-    "rifts8.fsb/charlie_ritual_atrium_shrouden_summon_R_DST.ogg": "New",
-    "rifts8.fsb/shadow_sanity_monster_V1_DST_-005.ogg": "New"
+    "rifts8.fsb/hallowedvoice_parasite_voice_v1_DST_-001.ogg": "Removed",
+    "rifts8.fsb/hallowedvoice_parasite_voice_v1_DST_-007.ogg": "Removed",
+    "rifts8.fsb/maxwell_shadow_trap_trigger_out_DST_-001.ogg": "New",
+    "rifts8.fsb/maxwell_shadow_trap_trigger_out_DST_-002.ogg": "New",
+    "rifts8.fsb/maxwell_shadow_trap_trigger_out_DST_-003.ogg": "New",
+    "rifts8.fsb/maxwell_shadow_worker_spawn_DST_-002.ogg": "New",
+    "rifts8.fsb/maxwell_shadow_worker_spawn_DST_-003.ogg": "New",
+    "rifts8.fsb/maxwell_shadow_worker_spawn_DST_-004.ogg": "New",
+    "rifts8.fsb/maxwell_shadow_worker_spawn_DST_-005.ogg": "New",
+    "rifts8.fsb/mimic_whoosh_DST_-001.ogg": "New",
+    "rifts8.fsb/mimic_whoosh_DST_-002.ogg": "New",
+    "rifts8.fsb/mimic_whoosh_DST_-003.ogg": "New",
+    "rifts8.fsb/mimic_whoosh_DST_-005.ogg": "New",
+    "rifts8.fsb/mimic_whoosh_DST_-006.ogg": "New",
+    "rifts8.fsb/parasite_amb_LP_DST_-005.ogg": "Removed",
+    "rifts8.fsb/parasite_thrall_vocalization_DST_-001.ogg": "Removed",
+    "rifts8.fsb/parasite_thrall_vocalization_DST_-002.ogg": "Removed",
+    "rifts8.fsb/parasite_thrall_vocalization_DST_-007.ogg": "Removed",
+    "rifts8.fsb/parasite_thrall_vocalization_DST_-010.ogg": "Removed",
+    "rifts8.fsb/parasite_thrall_vocalization_DST_-013.ogg": "Removed",
+    "rifts8.fsb/shadow_sanity_monster_V1_DST_-005.ogg": "Removed"
   },
   "changed": [
+    "rifts.fev",
     "rifts8.fev"
   ],
   "new": [
-    "rifts8.fsb/charlie_ritual_atrium_shrouden_summon_1_DST.ogg",
-    "rifts8.fsb/charlie_ritual_atrium_shrouden_summon_2_DST.ogg",
-    "rifts8.fsb/charlie_ritual_atrium_shrouden_summon_L_DST.ogg",
-    "rifts8.fsb/charlie_ritual_atrium_shrouden_summon_R_DST.ogg",
-    "rifts8.fsb/shadow_sanity_monster_V1_DST_-005.ogg"
+    "rifts8.fsb/maxwell_shadow_trap_trigger_out_DST_-001.ogg",
+    "rifts8.fsb/maxwell_shadow_trap_trigger_out_DST_-002.ogg",
+    "rifts8.fsb/maxwell_shadow_trap_trigger_out_DST_-003.ogg",
+    "rifts8.fsb/maxwell_shadow_worker_spawn_DST_-002.ogg",
+    "rifts8.fsb/maxwell_shadow_worker_spawn_DST_-003.ogg",
+    "rifts8.fsb/maxwell_shadow_worker_spawn_DST_-004.ogg",
+    "rifts8.fsb/maxwell_shadow_worker_spawn_DST_-005.ogg",
+    "rifts8.fsb/mimic_whoosh_DST_-001.ogg",
+    "rifts8.fsb/mimic_whoosh_DST_-002.ogg",
+    "rifts8.fsb/mimic_whoosh_DST_-003.ogg",
+    "rifts8.fsb/mimic_whoosh_DST_-005.ogg",
+    "rifts8.fsb/mimic_whoosh_DST_-006.ogg"
   ],
-  "removed": []
+  "removed": [
+    "rifts8.fsb/hallowedvoice_parasite_voice_v1_DST_-001.ogg",
+    "rifts8.fsb/hallowedvoice_parasite_voice_v1_DST_-007.ogg",
+    "rifts8.fsb/parasite_amb_LP_DST_-005.ogg",
+    "rifts8.fsb/parasite_thrall_vocalization_DST_-001.ogg",
+    "rifts8.fsb/parasite_thrall_vocalization_DST_-002.ogg",
+    "rifts8.fsb/parasite_thrall_vocalization_DST_-007.ogg",
+    "rifts8.fsb/parasite_thrall_vocalization_DST_-010.ogg",
+    "rifts8.fsb/parasite_thrall_vocalization_DST_-013.ogg",
+    "rifts8.fsb/shadow_sanity_monster_V1_DST_-005.ogg"
+  ]
 }
