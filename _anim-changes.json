@@ -1,32 +1,26 @@
 {
-  "_totalAll": 9,
-  "_totalChanged": 6,
-  "_totalNew": 2,
-  "_totalRemoved": 1,
+  "_totalAll": 7,
+  "_totalChanged": 7,
+  "_totalNew": 0,
+  "_totalRemoved": 0,
   "all": {
-    "atrium_portal_fx.zip": "New",
-    "bat_boss_acid_build.zip": "Changed",
+    "atrium_charlie_arena_ground_portal.zip": "Changed",
+    "charlie_arena_light_ray.zip": "Changed",
     "charlie_basic.zip": "Changed",
     "charlie_boss_actions.zip": "Changed",
-    "charlie_boss_vines.zip": "Changed",
-    "databundles/anim_dynamic.zip/anim/dynamic/idleanimations_wx78_headadjust.zip": "Changed",
-    "dst_menu_rift8.zip": "New",
-    "shadow_insanity_player.zip": "Changed",
-    "sharkboi_basic_water.zip": "Removed"
+    "charlie_boss_basic.zip": "Changed",
+    "charlie_transform.zip": "Changed",
+    "stalker_npc.zip": "Changed"
   },
   "changed": [
-    "bat_boss_acid_build.zip",
+    "atrium_charlie_arena_ground_portal.zip",
+    "charlie_arena_light_ray.zip",
     "charlie_basic.zip",
     "charlie_boss_actions.zip",
-    "charlie_boss_vines.zip",
-    "databundles/anim_dynamic.zip/anim/dynamic/idleanimations_wx78_headadjust.zip",
-    "shadow_insanity_player.zip"
+    "charlie_boss_basic.zip",
+    "charlie_transform.zip",
+    "stalker_npc.zip"
   ],
-  "new": [
-    "atrium_portal_fx.zip",
-    "dst_menu_rift8.zip"
-  ],
-  "removed": [
-    "sharkboi_basic_water.zip"
-  ]
+  "new": [],
+  "removed": []
 }
