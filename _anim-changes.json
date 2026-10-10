@@ -1,43 +1,37 @@
 {
-  "_totalAll": 15,
-  "_totalChanged": 14,
+  "_totalAll": 12,
+  "_totalChanged": 11,
   "_totalNew": 0,
   "_totalRemoved": 1,
   "all": {
-    "bee.zip": "Changed",
-    "bulbin_basic.zip": "Changed",
-    "buzzard_basic.zip": "Changed",
-    "charlie_boss_basic.zip": "Changed",
-    "charliearena_spike.zip": "Changed",
-    "eyeofterror_mini_basic.zip": "Changed",
+    "canary.zip": "Changed",
+    "carrat_basic.zip": "Changed",
+    "catcoon_actions.zip": "Changed",
+    "charliearena_rift_fx.zip": "Removed",
+    "crow.zip": "Changed",
+    "ds_rabbit_basic.zip": "Changed",
+    "frog.zip": "Changed",
     "king_cane.zip": "Changed",
-    "mossling_basic.zip": "Changed",
-    "player_idles.zip": "Changed",
+    "penguin.zip": "Changed",
+    "shrouden_actions.zip": "Changed",
     "shrouden_basic.zip": "Changed",
-    "shrouden_blast.zip": "Changed",
-    "slurper_basic.zip": "Changed",
-    "smallbird_basic.zip": "Changed",
-    "spider_water.zip": "Changed",
-    "worm_boss_shadow_spike.zip": "Removed"
+    "snowball.zip": "Changed"
   },
   "changed": [
-    "bee.zip",
-    "bulbin_basic.zip",
-    "buzzard_basic.zip",
-    "charlie_boss_basic.zip",
-    "charliearena_spike.zip",
-    "eyeofterror_mini_basic.zip",
+    "canary.zip",
+    "carrat_basic.zip",
+    "catcoon_actions.zip",
+    "crow.zip",
+    "ds_rabbit_basic.zip",
+    "frog.zip",
     "king_cane.zip",
-    "mossling_basic.zip",
-    "player_idles.zip",
+    "penguin.zip",
+    "shrouden_actions.zip",
     "shrouden_basic.zip",
-    "shrouden_blast.zip",
-    "slurper_basic.zip",
-    "smallbird_basic.zip",
-    "spider_water.zip"
+    "snowball.zip"
   ],
   "new": [],
   "removed": [
-    "worm_boss_shadow_spike.zip"
+    "charliearena_rift_fx.zip"
   ]
 }

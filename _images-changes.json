@@ -1,19 +1,17 @@
 {
-  "_totalAll": 4,
-  "_totalChanged": 4,
+  "_totalAll": 3,
+  "_totalChanged": 3,
   "_totalNew": 0,
   "_totalRemoved": 0,
   "all": {
-    "databundles/images.zip/images/inventoryimages1.tex": "Changed",
     "databundles/images.zip/images/inventoryimages2.tex": "Changed",
-    "databundles/images.zip/images/scrapbook_icons3.tex": "Changed",
-    "databundles/images.zip/images/scrapbook_icons3.xml": "Changed"
+    "worldprogressionfilters.tex": "Changed",
+    "worldprogressionfilters.xml": "Changed"
   },
   "changed": [
-    "databundles/images.zip/images/inventoryimages1.tex",
     "databundles/images.zip/images/inventoryimages2.tex",
-    "databundles/images.zip/images/scrapbook_icons3.tex",
-    "databundles/images.zip/images/scrapbook_icons3.xml"
+    "worldprogressionfilters.tex",
+    "worldprogressionfilters.xml"
   ],
   "new": [],
   "removed": []
