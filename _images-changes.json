@@ -1,17 +1,27 @@
 {
-  "_totalAll": 3,
-  "_totalChanged": 3,
+  "_totalAll": 8,
+  "_totalChanged": 8,
   "_totalNew": 0,
   "_totalRemoved": 0,
   "all": {
+    "databundles/images.zip/images/inventoryimages1.tex": "Changed",
+    "databundles/images.zip/images/inventoryimages1.xml": "Changed",
     "databundles/images.zip/images/inventoryimages2.tex": "Changed",
-    "worldprogressionfilters.tex": "Changed",
-    "worldprogressionfilters.xml": "Changed"
+    "databundles/images.zip/images/inventoryimages2.xml": "Changed",
+    "databundles/images.zip/images/inventoryimages3.tex": "Changed",
+    "databundles/images.zip/images/inventoryimages3.xml": "Changed",
+    "databundles/images.zip/images/inventoryimages4.tex": "Changed",
+    "databundles/images.zip/images/inventoryimages4.xml": "Changed"
   },
   "changed": [
+    "databundles/images.zip/images/inventoryimages1.tex",
+    "databundles/images.zip/images/inventoryimages1.xml",
     "databundles/images.zip/images/inventoryimages2.tex",
-    "worldprogressionfilters.tex",
-    "worldprogressionfilters.xml"
+    "databundles/images.zip/images/inventoryimages2.xml",
+    "databundles/images.zip/images/inventoryimages3.tex",
+    "databundles/images.zip/images/inventoryimages3.xml",
+    "databundles/images.zip/images/inventoryimages4.tex",
+    "databundles/images.zip/images/inventoryimages4.xml"
   ],
   "new": [],
   "removed": []
