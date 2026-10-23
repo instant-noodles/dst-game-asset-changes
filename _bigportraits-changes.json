@@ -1,36 +1,10 @@
 {
-  "_totalAll": 12,
+  "_totalAll": 0,
   "_totalChanged": 0,
-  "_totalNew": 12,
+  "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {
-    "databundles/bigportraits.zip/bigportraits/walter_pirate.xml": "New",
-    "databundles/bigportraits.zip/bigportraits/wanda_pirate.xml": "New",
-    "databundles/bigportraits.zip/bigportraits/wanda_survivor.xml": "New",
-    "databundles/bigportraits.zip/bigportraits/wanda_victorian.xml": "New",
-    "databundles/bigportraits.zip/bigportraits/wanda_whiterabbit.xml": "New",
-    "databundles/bigportraits.zip/bigportraits/wormwood_pirate.xml": "New",
-    "walter_pirate.tex": "New",
-    "wanda_pirate.tex": "New",
-    "wanda_survivor.tex": "New",
-    "wanda_victorian.tex": "New",
-    "wanda_whiterabbit.tex": "New",
-    "wormwood_pirate.tex": "New"
-  },
+  "all": {},
   "changed": [],
-  "new": [
-    "databundles/bigportraits.zip/bigportraits/walter_pirate.xml",
-    "databundles/bigportraits.zip/bigportraits/wanda_pirate.xml",
-    "databundles/bigportraits.zip/bigportraits/wanda_survivor.xml",
-    "databundles/bigportraits.zip/bigportraits/wanda_victorian.xml",
-    "databundles/bigportraits.zip/bigportraits/wanda_whiterabbit.xml",
-    "databundles/bigportraits.zip/bigportraits/wormwood_pirate.xml",
-    "walter_pirate.tex",
-    "wanda_pirate.tex",
-    "wanda_survivor.tex",
-    "wanda_victorian.tex",
-    "wanda_whiterabbit.tex",
-    "wormwood_pirate.tex"
-  ],
+  "new": [],
   "removed": []
 }
