@@ -1,14 +1,33 @@
 {
-  "_totalAll": 1,
-  "_totalChanged": 1,
-  "_totalNew": 0,
+  "_totalAll": 10,
+  "_totalChanged": 4,
+  "_totalNew": 6,
   "_totalRemoved": 0,
   "all": {
+    "bat.fsb/frankenpig_shorter_groan_deep_zombie_DST-001.ogg": "New",
+    "bat.fsb/frankenpig_shorter_groan_deep_zombie_DST-002.ogg": "New",
+    "bat.fsb/frankenpig_shorter_groan_deep_zombie_DST-003.ogg": "New",
+    "bat.fsb/frankenpig_shorter_groan_deep_zombie_DST-004.ogg": "New",
+    "bat.fsb/silence_-002.ogg": "New",
+    "dontstarve.fev": "Changed",
+    "dontstarve_DLC001.fev": "Changed",
+    "hallowednights2025.fev": "Changed",
+    "hallowednights2025.fsb/hallowednights_treat_reveal_stinger_spooky_DST.ogg": "New",
     "terraria1.fev": "Changed"
   },
   "changed": [
+    "dontstarve.fev",
+    "dontstarve_DLC001.fev",
+    "hallowednights2025.fev",
     "terraria1.fev"
   ],
-  "new": [],
+  "new": [
+    "bat.fsb/frankenpig_shorter_groan_deep_zombie_DST-001.ogg",
+    "bat.fsb/frankenpig_shorter_groan_deep_zombie_DST-002.ogg",
+    "bat.fsb/frankenpig_shorter_groan_deep_zombie_DST-003.ogg",
+    "bat.fsb/frankenpig_shorter_groan_deep_zombie_DST-004.ogg",
+    "bat.fsb/silence_-002.ogg",
+    "hallowednights2025.fsb/hallowednights_treat_reveal_stinger_spooky_DST.ogg"
+  ],
   "removed": []
 }
