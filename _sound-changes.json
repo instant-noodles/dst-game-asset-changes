@@ -1,33 +1,38 @@
 {
-  "_totalAll": 10,
-  "_totalChanged": 4,
-  "_totalNew": 6,
-  "_totalRemoved": 0,
+  "_totalAll": 12,
+  "_totalChanged": 3,
+  "_totalNew": 5,
+  "_totalRemoved": 4,
   "all": {
-    "bat.fsb/frankenpig_shorter_groan_deep_zombie_DST-001.ogg": "New",
-    "bat.fsb/frankenpig_shorter_groan_deep_zombie_DST-002.ogg": "New",
-    "bat.fsb/frankenpig_shorter_groan_deep_zombie_DST-003.ogg": "New",
-    "bat.fsb/frankenpig_shorter_groan_deep_zombie_DST-004.ogg": "New",
-    "bat.fsb/silence_-002.ogg": "New",
+    "amb_stream.fsb/tumbleweed_bounce_1.ogg": "New",
+    "amb_stream.fsb/tumbleweed_bounce_2.ogg": "New",
+    "amb_stream.fsb/tumbleweed_bounce_3.ogg": "New",
+    "amb_stream.fsb/tumbleweed_bounce_4.ogg": "New",
     "dontstarve.fev": "Changed",
     "dontstarve_DLC001.fev": "Changed",
-    "hallowednights2025.fev": "Changed",
-    "hallowednights2025.fsb/hallowednights_treat_reveal_stinger_spooky_DST.ogg": "New",
-    "terraria1.fev": "Changed"
+    "stuff.fsb/tumbleweed_bounce_1.ogg": "Removed",
+    "stuff.fsb/tumbleweed_bounce_2.ogg": "Removed",
+    "stuff.fsb/tumbleweed_bounce_3.ogg": "Removed",
+    "stuff.fsb/tumbleweed_bounce_4.ogg": "Removed",
+    "terraria1.fev": "Changed",
+    "terraria1.fsb/broom_magic_start_gust_shimmer_liftoff_whoosh_swish_DST.ogg": "New"
   },
   "changed": [
     "dontstarve.fev",
     "dontstarve_DLC001.fev",
-    "hallowednights2025.fev",
     "terraria1.fev"
   ],
   "new": [
-    "bat.fsb/frankenpig_shorter_groan_deep_zombie_DST-001.ogg",
-    "bat.fsb/frankenpig_shorter_groan_deep_zombie_DST-002.ogg",
-    "bat.fsb/frankenpig_shorter_groan_deep_zombie_DST-003.ogg",
-    "bat.fsb/frankenpig_shorter_groan_deep_zombie_DST-004.ogg",
-    "bat.fsb/silence_-002.ogg",
-    "hallowednights2025.fsb/hallowednights_treat_reveal_stinger_spooky_DST.ogg"
+    "amb_stream.fsb/tumbleweed_bounce_1.ogg",
+    "amb_stream.fsb/tumbleweed_bounce_2.ogg",
+    "amb_stream.fsb/tumbleweed_bounce_3.ogg",
+    "amb_stream.fsb/tumbleweed_bounce_4.ogg",
+    "terraria1.fsb/broom_magic_start_gust_shimmer_liftoff_whoosh_swish_DST.ogg"
   ],
-  "removed": []
+  "removed": [
+    "stuff.fsb/tumbleweed_bounce_1.ogg",
+    "stuff.fsb/tumbleweed_bounce_2.ogg",
+    "stuff.fsb/tumbleweed_bounce_3.ogg",
+    "stuff.fsb/tumbleweed_bounce_4.ogg"
+  ]
 }
