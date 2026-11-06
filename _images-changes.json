@@ -1,16 +1,10 @@
 {
-  "_totalAll": 2,
-  "_totalChanged": 2,
+  "_totalAll": 0,
+  "_totalChanged": 0,
   "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {
-    "worldsettings_customization.tex": "Changed",
-    "worldsettings_customization.xml": "Changed"
-  },
-  "changed": [
-    "worldsettings_customization.tex",
-    "worldsettings_customization.xml"
-  ],
+  "all": {},
+  "changed": [],
   "new": [],
   "removed": []
 }

@@ -1,10 +1,24 @@
 {
-  "_totalAll": 0,
-  "_totalChanged": 0,
+  "_totalAll": 6,
+  "_totalChanged": 6,
   "_totalNew": 0,
   "_totalRemoved": 0,
-  "all": {},
-  "changed": [],
+  "all": {
+    "databundles/anim_dynamic.zip/anim/dynamic/wanda_western.zip": "Changed",
+    "databundles/anim_dynamic.zip/anim/dynamic/wanda_western_old.zip": "Changed",
+    "databundles/anim_dynamic.zip/anim/dynamic/wanda_western_young.zip": "Changed",
+    "dynamic/wanda_western.dyn": "Changed",
+    "dynamic/wanda_western_old.dyn": "Changed",
+    "dynamic/wanda_western_young.dyn": "Changed"
+  },
+  "changed": [
+    "databundles/anim_dynamic.zip/anim/dynamic/wanda_western.zip",
+    "databundles/anim_dynamic.zip/anim/dynamic/wanda_western_old.zip",
+    "databundles/anim_dynamic.zip/anim/dynamic/wanda_western_young.zip",
+    "dynamic/wanda_western.dyn",
+    "dynamic/wanda_western_old.dyn",
+    "dynamic/wanda_western_young.dyn"
+  ],
   "new": [],
   "removed": []
 }
